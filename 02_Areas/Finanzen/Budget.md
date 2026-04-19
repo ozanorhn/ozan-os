@@ -45,6 +45,16 @@ tags: [finanzen, budget, fixkosten]
 > [!success] Finanzübersicht
 > Keine Miete, keine weiteren Kosten. 1.642,71 € frei verfügbar pro Monat.
 
+## Allokation frei verfügbar (ab Mai 2026)
+
+| Topf | Betrag | Zweck |
+|------|-------:|-------|
+| **Hochzeitsfonds** | 400 €/M | Ringe, Fotograf, Outfit, Gelin Bohçası – separat von TR-Cash |
+| Lifestyle / laufend | ~1.200 €/M | variable Ausgaben |
+| Optional: ETF-Boost | +50 €/M | wenn Riester beitragsfrei (→ Scalable auf 300 €/M) |
+
+Nach Nişan (Okt 2026) Hochzeitsfonds prüfen – ggf. auf 200 €/M reduzieren, ETF auf 400 €/M hochziehen.
+
 ## Verwandte Bereiche
 
 - [[02_Areas/Gesundheit]] – FitX-Mitgliedschaft
