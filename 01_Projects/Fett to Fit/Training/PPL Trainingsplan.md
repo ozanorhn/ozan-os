@@ -84,7 +84,17 @@ ende: 2026-05-24
 - Zwischen Übungen: **2–3 Min. Pause** einplanen
 
 ### Intensität & Ausführung
-- Stets mit hoher Intensität trainieren — **letzte Wiederholung = deine Grenze**
+
+**Regel: Nicht jeder Satz bis zum Muskelversagen**
+
+Studien zeigen: 1–2 Wiederholungen in Reserve ("RIR") produziert gleichen Muskelaufbau bei deutlich weniger Ermüdung und Verletzungsrisiko. Wer jeden Satz ans absolute Limit geht, kann keine guten Folgesätze mehr machen – das reduziert das Gesamtvolumen.
+
+| Situation | Ziel |
+|-----------|------|
+| Grundübungen (Bankdrücken, Squats, Rudern, Latzug) | 2–3 RIR lassen |
+| Isolationsübungen (Curls, Flys, Kickbacks, Pushdown) | 1 RIR oder bis Failure |
+| **Letzter Satz jeder Übung** | Bis nahe Failure oder volles Failure |
+
 - Perfekte Ausführung bei jeder Wiederholung — Qualität vor Quantität
 - Gewicht ausschließlich durch Muskelkraft bewegen (von der Dehnung bis zur max. Kontraktion)
 - Kein Schwung, keine unkorrekte Bewegung
@@ -152,6 +162,59 @@ ende: 2026-05-24
 | Squats (Heavy-Duty-Rack) | Hackenschmidt | KH-Goblet Squat |
 | Beinpresse | Hackenschmidt | KH-Goblet Squat |
 | Wadenheben stehend | KH-Wadenheben einbeinig | – |
+
+---
+
+## Nach Zyklus 1 – Deload & Zyklus 2
+
+Zyklus 1 endet **Sonntag 24.05.2026** (Ende KW 21). Danach **nicht** direkt weitertrainieren mit alten Gewichten – sondern erst Deload, dann neuer Zyklus.
+
+### Deload-Woche (KW 22 · 25.05.–31.05.2026)
+
+> [!tip] Deload-Regel
+> **Gleicher Plan, reduziertes Volumen und Intensität.** Kein Muskelversagen, keine LIMIT-Sätze. Ziel: ZNS und Bindegewebe erholen, Mobilität erhalten, Hunger auf Training zurückholen.
+
+| Parameter | Zyklus-1-Wert | Deload-Wert |
+|-----------|---------------|-------------|
+| Sätze pro Übung | 3–4 | **2–3** (alle Übungen um 1 Satz kürzen) |
+| Gewicht | Arbeitsgewicht (mit LIMIT-Sätzen) | **~60% Arbeitsgewicht** |
+| Wiederholungen | 8–12 | 8–10 (glatter Bereich) |
+| RIR (Reps in Reserve) | 1–2 (letzter Satz bis Failure) | **3–4, NIE bis Failure** |
+| LIMIT-Sätze | ja (letzter Satz max. Gewicht) | **nein, komplett streichen** |
+| Einheiten pro Woche | 3 (Mo/Mi/Fr) | 3 (Mo/Mi/Fr) – gleicher Rhythmus |
+
+**Warum nicht einfach Pause?** Komplettes Aussetzen bricht die Gewohnheit und kostet Kraft-Koordination. Deload hält die Bewegung drin, ohne die Reserven weiter zu plündern.
+
+**Ernährung in der Deload-Woche:** Kalorien bleiben wie im Defizit. Kein "Refeed" – Fettabbau läuft weiter.
+
+### Zyklus 2 (KW 23–30 · 01.06.–26.07.2026)
+
+| Aspekt | Planung |
+|--------|---------|
+| Start | Mo 01.06.2026 (KW 23) |
+| Ende | So 26.07.2026 (KW 30) |
+| Dauer | 8 Wochen |
+| Struktur | Gleicher PPL-Split (Push/Pull/Legs, 3× Woche Mo/Mi/Fr) |
+| Einstiegs-Gewicht | **LIMIT-Gewicht aus Zyklus 1 W8** als Startpunkt für W1 Zyklus 2 – von dort wieder progressiv steigern |
+| Progressions-Regel | Unverändert: Gewicht in allen Sätzen konstant, steigern sobald oberes Wiederholungsziel in ALLEN Sätzen erreicht |
+| Anpassungen | Nach Zyklus 1 Review: Übungen tauschen, die nicht progressiert sind / Schwachstellen-Fokus |
+
+**Kontext-Kollision prüfen:** Sommerurlaub **13.07.–07.08.2026** = KW 29–32 → überschneidet sich mit Zyklus 2 letzte Wochen. Optionen:
+- (a) Zyklus 2 früher beenden (KW 28, 19.07.) → 7 Wochen statt 8
+- (b) Im Urlaub Hotel-Gym oder Bodyweight-Variante fahren → Plan parallel mitnehmen
+- (c) Zyklus 2 nach Urlaub starten (KW 32 / ab 10.08.) → dann aber 11 Wochen Pause seit Zyklus 1
+
+**Empfehlung:** Option (b) – Plan durchziehen, im Urlaub Bodyweight/Hotel-Gym. Kein Reset-Verlust.
+
+### Review zwischen den Zyklen (So 24.05.2026)
+
+In der Weekly Synthesis KW 21 explizit:
+- [ ] Gewicht Start vs. Ende Zyklus 1 dokumentiert
+- [ ] Körperfett-Messung (falls Baseline in KW 19 gemacht)
+- [ ] Top 3 Progressions-Erfolge notiert
+- [ ] 1–2 Übungen identifiziert, die NICHT progressiert haben → Alternative wählen
+- [ ] Ernährung: Adhärenz Protein + Kalorien über 8 Wochen – Muster?
+- [ ] Deload-Start Mo 25.05. im Kalender
 
 ---
 

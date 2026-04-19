@@ -15,11 +15,11 @@ Essen nur innerhalb eines festen Zeitfensters: **7:00–18:00 Uhr** (11 Stunden)
 Danach fastet der Körper ~13 Stunden. Das reduziert automatisch Kalorienmüll am Abend, verbessert die Insulinsensitivität und fördert Fettverbrennung über Nacht.
 
 **2. High-Protein Diet**
-190g Protein täglich (~2g pro kg Körpergewicht).
+185g Protein täglich (~2,0g pro kg Körpergewicht).
 Protein schützt die Muskelmasse im Defizit, erhöht den Kalorienverbrauch durch Thermogenese und hält länger satt.
 
 **Ziel: Body Recomposition** – gleichzeitig Fett abbauen und Muskeln aufbauen.
-Das funktioniert durch das leichte Kaloriendefizit (2.400 kcal) kombiniert mit dem Trainingsreiz aus dem PPL-Plan.
+Das funktioniert durch das Kaloriendefizit (2.470 kcal bei leicht aktivem Lebensstil) kombiniert mit dem Trainingsreiz aus dem PPL-Plan.
 
 ---
 
@@ -31,9 +31,9 @@ Das funktioniert durch das leichte Kaloriendefizit (2.400 kcal) kombiniert mit d
 
 ## Tagesziele (MyFitnessPal)
 
-| Kalorien | Protein | Kohlenhydrate | Fett |
-| -------- | ------- | ------------- | ---- |
-| 2.400 kcal | 190 g | 220 g | 84 g |
+| Kalorien | Protein (30%) | Kohlenhydrate (50%) | Fette (20%) |
+| -------- | ------------- | ------------------- | ----------- |
+| 2.470 kcal | 185 g | 309 g | 55 g |
 
 ---
 
@@ -86,11 +86,20 @@ Nach dem Training: **kein separates Essen nötig** – Mahlzeit 3 reicht, wenn v
 
 ---
 
-## Bürotage (Di / Mi)
+## Bürotage (Di / Do)
 
 - Mahlzeit 2 am Vortag vorbereiten (Meal Prep) und mitnehmen
 - Snack ebenfalls einpacken: Skyr-Becher oder Hüttenkäse + Reiswaffeln
-- Mittwoch Achtung: Büro + Gym → früh genug Mahlzeit 3 einplanen (spätestens 17:30)
+- Sonntag-Abend: Meal Prep für Mo + Di komplett. Mittwoch-Abend: Meal Prep für Do.
+
+> [!tip] Protein-Operationalisierung statt nur Tracking
+> Fixe Mahlzeiten-Regel schlägt ad-hoc-Tracking. Standard-Setup garantiert 170+ g:
+> - Frühstück: 200g Skyr (~22g)
+> - Mittag: 250g Hähnchen + 200g Reis + Brokkoli (~65g)
+> - Snack: 250g Hüttenkäse + Reiswaffel (~32g)
+> - Post-Workout / abends (vor 18:00): 1 Portion Whey (~24g) oder 3 Eier
+>
+> MyFitnessPal bestätigt, steuert nicht. Vermeidet Tag-1-Effekte (68 g statt 185 g).
 
 ---
 
@@ -105,7 +114,25 @@ Nach dem Training: **kein separates Essen nötig** – Mahlzeit 3 reicht, wenn v
 
 ---
 
+## MyFitnessPal Einstellungen
+
+| Einstellung | Wert |
+| ----------- | ---- |
+| Kalorien | 2.470 kcal |
+| Protein | 185g (30%) |
+| Kohlenhydrate | 309g (50%) |
+| Fette | 55g (20%) |
+| Aktivitätslevel | Leicht aktiv |
+| Ziel | −0,5 kg/Woche |
+| Kalorien aus Training | Aus |
+
+**Kalorien pro Mahlzeit:**
+- Breakfast: 387 kcal
+- Lunch: 1.260 kcal
+- Dinner: 0 kcal (kein Essen nach 18:00)
+- Snacks: 823 kcal
+
 ## Tracking
 
 MyFitnessPal – täglich eintragen, Fokus auf Protein zuerst.
-Wenn Protein-Ziel (190g) erreicht → Rest passt sich an.
+Wenn Protein-Ziel (185g) erreicht → Rest passt sich an.
