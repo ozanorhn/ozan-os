@@ -8,7 +8,7 @@ tags: [finanzen, übersicht, vermögen]
 
 # Vermögensübersicht
 
-Stand: **2026-04-19**
+Stand: **2026-04-19** (17:28 Uhr – TR + Scalable Live-Werte)
 
 > [!important] Zwei getrennte Welten
 > **Langfristiger Vermögensaufbau** läuft über **Scalable Capital** (ETF-Strategie).
@@ -21,12 +21,12 @@ Stand: **2026-04-19**
 
 | Kategorie | Konto | Horizont | Betrag |
 |-----------|-------|----------|-------:|
-| ETF-Portfolio | Scalable | langfristig (20+ J.) | 1.839 € |
-| Cash (Notgroschen + Immobilien-EK) | Trade Republic | jederzeit | 9.271 € |
-| Einzelaktien / Gold / Derivate | Trade Republic | kurzfristig | 1.193 € |
+| ETF-Portfolio + Guthaben | Scalable | langfristig (20+ J.) | 2.203,52 € |
+| Cash (Notgroschen + Immobilien-EK) | Trade Republic | jederzeit | 9.320,72 € |
+| Einzelaktien / Gold / Derivate | Trade Republic | kurzfristig | 1.365,67 € |
 | Riester-Rentenversicherung | Generali | bis 2068 | 900 € |
 | Bauspar-Guthaben (→ Immobilien-Darlehen 2,85 %) | Badenia | mittelfristig | 1.420 € |
-| **Gesamt Aktiva** | | | **~14.623 €** |
+| **Gesamt Aktiva** | | | **~15.210 €** |
 
 ### Verbindlichkeiten
 
@@ -40,9 +40,9 @@ Stand: **2026-04-19**
 
 | | Betrag |
 |---|---:|
-| Aktiva | ~14.623 € |
+| Aktiva | ~15.210 € |
 | Verbindlichkeiten | ≥ −5.813 € |
-| **Nettovermögen** | **~8.810 €** |
+| **Nettovermögen** | **~9.397 €** |
 
 ---
 
@@ -53,36 +53,41 @@ Kernstrategie: **2-ETF 80/20** ([[ETF-Strategie]]) – Langfrist-Vermögensaufba
 
 | ETF | Wert | Sparplan |
 |-----|-----:|---------:|
-| Vanguard FTSE All-World | 1.439 € | 200 €/M |
-| Xtrackers MSCI EM | 400 € | 50 €/M |
-| **Gesamt** | **1.839 €** | **250 €/M** |
+| Vanguard FTSE All-World | 1.693,78 € | 200 €/M |
+| Xtrackers MSCI EM | 472,90 € | 50 €/M |
+| Guthaben (Cash in Scalable) | 36,84 € | — |
+| **Gesamt** | **2.203,52 €** | **250 €/M** |
 
 ### Trade Republic → [[Trade-Republic-Portfolio]] (kurzfristig)
 Notgroschen + kurzfristige Einzelinvestments / taktische Trades – **getrennt** von der ETF-Strategie
 
 | Bereich | Wert |
 |---------|-----:|
-| Cash (verzinst) | 9.270,72 € |
-| Physical Gold | 559 € |
-| Deutsche Telekom | 355 € |
-| China-Einzelaktien (BABA, JD) | 238 € |
-| Derivat (Long-Zertifikat) | 41 € |
-| **Gesamt** | **~10.464 €** |
+| Cash (verzinst) | 9.320,72 € |
+| Gold (ETC) | 562,65 € |
+| Deutsche Telekom | 333,95 € |
+| China-Einzelaktien (BABA + JD) | 260,95 € |
+| Crypto (XRP + Solana) | 148,44 € |
+| Derivat (Broadcom Turbo) | 59,16 € |
+| **Gesamt** | **~10.686 €** |
 
 ---
 
 ## Aufteilung nach Anlageklasse
 
+Bezogen auf liquide Assets (TR + Scalable, ohne Riester/Bauspar = ~12.890 €):
+
 | Klasse | Wert | Anteil |
 |--------|-----:|-------:|
-| Cash / Liquidität | 9.271 € | 75 % |
-| Aktien-ETFs (weltweit diversifiziert) | 1.839 € | 16 % |
-| Gold | 559 € | 5 % |
-| Einzelaktien | 593 € | 5 % |
-| Derivate | 41 € | <1 % |
+| Cash / Liquidität (TR + Scalable-Guthaben) | 9.357,56 € | 73 % |
+| Aktien-ETFs (weltweit diversifiziert) | 2.166,68 € | 17 % |
+| Gold (ETC) | 562,65 € | 4 % |
+| Einzelaktien (DTE + BABA + JD) | 594,90 € | 5 % |
+| Crypto (XRP + Solana) | 148,44 € | 1 % |
+| Derivate (Broadcom Turbo) | 59,16 € | <1 % |
 
 > [!info] Beobachtung
-> Sehr hoher Cash-Anteil (73 %) – sinnvoll für Notgroschen, aber sobald der Notfallpuffer gedeckt ist, arbeitet zusätzliches Cash bei 2 % Zinsen langfristig schlechter als der Aktienmarkt.
+> Cash-Anteil weiterhin sehr hoch (73 %) – sinnvoll für Notgroschen + Immo-EK. ETF-Anteil ist seit 08.04. von 16 % auf 17 % gestiegen (Sparplan + Kurszuwachs). Sobald Notfallpuffer sauber getrennt ist, arbeitet zusätzliches Cash bei 2 % Zinsen langfristig schlechter als der Aktienmarkt.
 
 ---
 
@@ -122,17 +127,20 @@ Ziel: Bis Nişan (19.09.2026) ~2.000 € Hochzeits-Puffer für Ringe, Fotograf, 
 
 ---
 
-## TR-Einzelaktien – Exit-Trigger (Stand 19.04.2026)
+## TR-Einzelinvestments – Exit-Trigger (Stand 19.04.2026)
 
 | Position | Aktuell | Trigger | Aktion |
 |----------|--------:|---------|--------|
-| Alibaba (BABA) | −23,79 % | ⚠️ Schwelle überschritten | Verlust realisieren → ETF |
-| JD.com | −15,86 % | bei Rückkehr auf −10 % | verkaufen → ETF |
-| Long-Zertifikat | −14,82 % | bei Rückkehr auf −10 % | verkaufen → ETF |
-| Deutsche Telekom | +17,96 % | halten (Dividenden-Performer) | — |
-| Physical Gold | +11,69 % | halten (Diversifier) | — |
+| Solana | **−57,15 %** | ⚠️ neu erfasst – Strategie offen | Entscheiden: halten oder Verlust realisieren |
+| XRP | **−45,21 %** | ⚠️ neu erfasst – Strategie offen | Entscheiden: halten oder Verlust realisieren |
+| Alibaba (BABA) | −15,60 % (von −23,79 %) | erholt sich – bei Rückkehr auf −10 % | verkaufen → ETF |
+| JD.com | −9,61 % (von −15,86 %) | Schwelle erreicht | **verkaufen → ETF** |
+| Broadcom Turbo (Open End) | **+23,15 %** (von −14,82 %) | Gewinn mitnehmen? | Exit bei nächster Korrektur erwägen |
+| Deutsche Telekom | +15,30 % | halten (Dividenden-Performer) | — |
+| Physical Gold | +12,34 % | halten (Diversifier) | — |
 
 **Regel Jahresende 2026:** Alle Verlustpositionen geschlossen. Kein neues Kapital in Derivate.
+**Offen:** Crypto (SOL, XRP) war bisher nicht Teil der Strategie – klare Regel definieren.
 
 ---
 

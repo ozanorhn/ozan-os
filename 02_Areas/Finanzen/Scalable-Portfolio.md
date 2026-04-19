@@ -2,27 +2,31 @@
 title: Scalable Capital – Portfolio
 typ: finanzen
 erstellt: 2026-04-08
-aktualisiert: 2026-04-08
+aktualisiert: 2026-04-19
 tags: [finanzen, etf, investieren, scalable]
 ---
 
 # Scalable Capital – Portfolio
 
-Letzte Aktualisierung: 2026-04-08
-Gesamtwert: **1.839 €**
+Letzte Aktualisierung: 2026-04-19
+Gesamtwert (inkl. Guthaben): **2.203,52 €**
+Portfolio-Wert (nur ETFs): **2.166,68 €**
 Strategie: **2-ETF – 80/20** (siehe [[ETF-Strategie]])
 
 ## Positionen
 
-| ETF | ISIN | Investiert | Sparplan | Ziel-Anteil |
-|-----|------|-----------:|---------:|------------:|
-| Vanguard FTSE All-World (Acc) 🔄 | IE00BK5BQT80 | 1.439 € | 200 € / Monat | 80 % |
-| Xtrackers MSCI Emerging Markets (Acc) 🔄 | IE00BTJRMP35 | 400 € | 50 € / Monat | 20 % |
-| **Gesamt** | | **1.839 €** | **250 € / Monat** | **100 %** |
+| ETF | ISIN | Wert | Sparplan | Ziel-Anteil |
+|-----|------|-----:|---------:|------------:|
+| Vanguard FTSE All-World (Acc) 🔄 | IE00BK5BQT80 | 1.693,78 € | 200 € / Monat | 80 % |
+| Xtrackers MSCI Emerging Markets (Acc) 🔄 | IE00BTJRMP35 | 472,90 € | 50 € / Monat | 20 % |
+| Guthaben (Cash in Scalable) | — | 36,84 € | — | — |
+| **Gesamt** | | **2.203,52 €** | **250 € / Monat** | **100 %** |
 
 > 🔄 = aktiver Sparplan
 
 ## Aktuelle Gewichtung
+
+Bezogen auf ETF-Portfolio ohne Guthaben (2.166,68 €):
 
 | ETF | Ist | Ziel | Delta |
 |-----|----:|-----:|------:|
