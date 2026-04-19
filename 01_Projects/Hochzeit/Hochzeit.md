@@ -3,7 +3,7 @@ title: Hochzeit
 type: moc
 status: aktiv
 erstellt: 2026-03-28
-aktualisiert: 2026-03-29
+aktualisiert: 2026-04-19
 tags: [projekt, hochzeit, persönlich]
 ---
 
@@ -20,6 +20,8 @@ tags: [projekt, hochzeit, persönlich]
 ## Finanzierung
 
 Kein festes Budget. Kosten werden laufend aus den monatlichen variablen Ausgaben bezahlt – gemeinsam mit den Eltern, jeweils wenn etwas anfällt.
+
+**Ab Mai 2026:** Eigener Topf "Hochzeitsfonds" (400 €/M) – Details + Tracking in [[Hochzeitsfonds]], Allokation siehe [[Budget]]. Getrennt vom TR-Cash (Notgroschen + Immo-EK). ETF-Sparplan bleibt unantastbar.
 
 ## Unterordner
 
@@ -41,6 +43,17 @@ Türkische Hochzeit – mit allen Traditionen:
 - [[Checklisten/Gelin Bohçası Checkliste|Gelin Bohçası – Einkaufsliste]]
 - [[Checklisten/Hochzeit Kanban|Kanban Board]]
 
+## Nişan-Timeline (4-Monate-Regel)
+
+| Monat | Meilenstein |
+|-------|-------------|
+| **Apr 2026** (KW 17) | Juwelier-Termin für Nişan Yüzükleri vereinbaren |
+| **Mai 2026** | Fotograf buchen (5 Mo vorher), Einladungen designen |
+| **Juni 2026** | Einladungen versenden (3–4 Mo vorher), Outfit-Anprobe |
+| **Juli 2026** | Catering bestätigen, Gelin Bohçası final |
+| **August 2026** | Fotograf Final-Briefing, Detail-Checkliste, Nişan Şekeri |
+| **Sep 2026** | **🎉 Nişan 19.09.2026** |
+
 ## Nächste Schritte
 
 - [x] Heiratsantrag vorbereiten (05.04.2026) ✓ – Sie hat Ja gesagt!
@@ -48,9 +61,11 @@ Türkische Hochzeit – mit allen Traditionen:
 - [x] Nişan-Location ✓ (wird von Frau-Seite organisiert)
 - [x] Hochzeitssaal ✓ gebucht
 - [x] Takı & Altın ✓ vorbereitet
-- [ ] Gelin Bohçası einkaufen (in Bearbeitung)
-- [ ] Fotograf für Nişan – Sedef kümmert sich (Option: Fotograf vom Antrag)
-- [ ] Gästeliste erstellen (erst 2027 nötig)
+- [ ] **Juwelier-Termin für Nişan Yüzükleri** vereinbaren (Do 30.04.2026)
+- [ ] Gelin Bohçası: 1 Kategorie pro Woche ab KW 17 → komplett in 8 Wochen (siehe [[Gelin Bohçası Checkliste]])
+- [ ] Fotograf für Nişan – Sedef kümmert sich (Option: Fotograf vom Antrag) → Buchung Mai
+- [ ] Einladungen versenden – **bis Ende Juni 2026**
+- [ ] Gästeliste finalisieren (erst für Düğün 2027 nötig)
 - [ ] Standesamt Termin buchen (Aug/Sep 2027, ca. 1–2 Monate vor Hochzeit)
 
 ## Google Tasks

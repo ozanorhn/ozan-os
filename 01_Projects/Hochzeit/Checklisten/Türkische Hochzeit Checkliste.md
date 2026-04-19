@@ -1,7 +1,7 @@
 ---
 title: Türkische Hochzeit – Checkliste
 erstellt: 2026-03-29
-aktualisiert: 2026-03-29
+aktualisiert: 2026-04-19
 tags: [hochzeit, türkisch, checkliste, planung]
 status: aktiv
 ---
@@ -16,6 +16,38 @@ status: aktiv
 ```
 Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 ```
+
+---
+
+## Monatliche Timeline (wann was)
+
+> [!tip] Zeitachse parallel zur thematischen Liste unten
+> Diese Timeline ordnet die Aufgaben zeitlich zu – die thematische Gliederung (Sektionen 1–7) bleibt als inhaltliche Referenz erhalten. Verknüpft mit [[06_Metadata/Plans/2026-04-19-jahresplan-2026|Jahresplan 2026]].
+
+### 2026 – Fokus: Verlobung am 19.09.
+
+| Monat | Meilenstein / Aufgaben |
+|-------|------------------------|
+| **April 2026** | Söz Kesme offen · Gelin Bohçası Einkaufs-Kadenz startet ab KW 17 (25.04.) |
+| **Mai 2026** | Bohça weiter (Handtücher, Kosmetik, Make-up, Schmuck) · Fotograf Nişan buchen |
+| **Juni 2026** | Bohça abschließen (bis KW 24, 13.06.) · Verlobungsringe kaufen · Nişan Tepsisi & Şekeri |
+| **Juli 2026** | Outfit Bräutigam (Anzug) · Braut-Outfit abstimmen mit Nilüfer · Einladungskarten drucken |
+| **August 2026** | Catering/Deko Nişan finalisieren · Einladungen versenden · Probelauf Ablauf |
+| **September 2026** | **Nişan Töreni – 19.09.2026** · Gelin Bohçası überreichen · Şerbet-Zeremonie |
+| **Okt–Dez 2026** | Nachbereitung, Fotos archivieren, erste Düğün-Vorplanung (Catering-Angebote sichten) |
+
+### 2027 – Fokus: Düğün am 02.10.
+
+| Monat | Meilenstein / Aufgaben |
+|-------|------------------------|
+| **Jan–März 2027** | Hochzeitskleid Nilüfer – Anproben starten · Hochzeitssaal-Details fixieren · Catering-Angebote einholen |
+| **April 2027** | Menü festlegen (Mezze, Hauptgericht, Baklava) · Hochzeitstorte anfragen · DJ/Band buchen |
+| **Mai 2027** | Anzug/Smoking für Bräutigam · Flitterwochen-Ziel & Buchung · Hotel Hochzeitsnacht |
+| **Juni 2027** | Gästeliste finalisieren · Hotelkontingent für auswärtige Gäste · Davul & Zurna organisieren |
+| **Juli 2027** | Einladungen versenden (mind. 3 Monate vorher) · Bekarlığa Veda planen |
+| **August 2027** | **Nikah (Standesamt)** buchen · Trauzeugen fixieren · Dokumente prüfen |
+| **September 2027** | Kına Gecesi vorbereiten (Datum: 01.10.) · Kına Elbisesi · Henna · Tischkarten & Sitzplan |
+| **Oktober 2027** | **01.10. Kına Gecesi · 02.10. Düğün** |
 
 ---
 

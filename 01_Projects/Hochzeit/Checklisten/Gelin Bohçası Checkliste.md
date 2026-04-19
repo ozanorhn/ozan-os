@@ -1,12 +1,30 @@
 ---
 title: Gelin Bohçası – Checkliste
 erstellt: 2026-03-29
-aktualisiert: 2026-04-07
+aktualisiert: 2026-04-19
 tags: [hochzeit, gelin-bohçası, checkliste]
 status: in-bearbeitung
 ---
 
 # Gelin Bohçası – Checkliste
+
+## Einkaufs-Kadenz (aus [[06_Metadata/Plans/2026-04-19-jahresplan-2026|Jahresplan 2026]])
+
+**Eine Kategorie pro Woche ab KW 17 → komplett bis KW 24 (Mitte Juni).**
+
+| Woche | Datum | Kategorie |
+|-------|-------|-----------|
+| KW 17 | Sa 25.04. | Kleidung & Wäsche (Gecelik, Sabahlık) |
+| KW 18 | Sa 02.05. | Handtücher & Haushalt |
+| KW 19 | Sa 09.05. | Kosmetik (Parfüm zuletzt – gemeinsam) |
+| KW 20 | Sa 16.05. | Make-up & Pflege-Accessoires |
+| KW 21 | Sa 23.05. | Taschen & Schmuck |
+| KW 22 | Sa 30.05. | Elektronik (Haartrockner, Glätteisen) |
+| KW 23 | Sa 06.06. | Verpackung & Präsentation |
+| KW 24 | Sa 13.06. | Finale Review + fehlende Teile |
+
+> [!tip] Prinzip
+> Eine Kategorie/Woche verhindert All-at-Once-Stress. Parfüm bleibt bis zuletzt offen – gemeinsam mit Nilüfer entscheiden.
 
 ---
 
