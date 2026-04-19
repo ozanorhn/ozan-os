@@ -20,6 +20,7 @@ Bereiche sind **laufende Verantwortlichkeiten** die:
 
 - [[Gesundheit]] – Sport, Ernährung, Wohlbefinden
 - [[Finanzen]] – Budget, Sparen, Investitionen
+- [[Karriere & Entwicklung]] – Berufliches Wachstum, Skills, Netzwerk
 
 ## Was hierher gehört
 
