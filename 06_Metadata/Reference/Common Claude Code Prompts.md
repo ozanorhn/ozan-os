@@ -1,14 +1,14 @@
 # Nützliche Claude-Prompts
 
-Eine Sammlung hilfreicher Prompts für die Arbeit mit Claude in deinem Vault.
+Eine Sammlung hilfreicher Prompts für dein persönliches zweites Gehirn.
 
 ## Session starten
 
 ### Beginn einer Session
 ```
-Ich fange heute mit der Arbeit an.
-Kannst du überprüfen, woran ich gestern gearbeitet habe,
-und mir helfen, dort weiterzumachen?
+Ich setze mich gerade hin, um an meinem Vault weiterzumachen.
+Kannst du schauen, was ich zuletzt notiert habe,
+und mir helfen, dort anzuknüpfen?
 ```
 
 ### Modus setzen
@@ -61,83 +61,109 @@ Welche werden in keiner Notiz referenziert?
 Welche könnten besser benannt werden?
 ```
 
-## Schreiben & Erstellen
+## Schreiben & Festhalten
 
-### In Schreibmodus wechseln
+### Gedanken sortieren
 ```
-Ich bin bereit, vom Denken zum Schreiben zu wechseln.
-Basierend auf unserer Recherche in [Projekt],
-hilf mir, eine Gliederung für [Ergebnis] zu erstellen.
-```
-
-### Entwurf verbessern
-```
-Überprüfe [Dokument].
-Schreibe es nicht um, aber gib mir konkretes Feedback zu:
-- Struktur und Fluss
-- Logik- oder Beweislücken
-- Bereiche, die Klarstellung benötigen
+Ich habe gerade viel im Kopf zu [Thema].
+Hilf mir, das zu sortieren, indem du Fragen stellst
+und am Ende eine Notiz daraus formst.
 ```
 
-## Lernen & Entwicklung
+### Notiz verbessern
+```
+Schau dir [Notiz] an.
+Schreib sie nicht um, aber gib mir konkretes Feedback zu:
+- Struktur und Lesbarkeit
+- Lücken oder unklare Stellen
+- Was noch ergänzt werden könnte
+```
+
+## Lernen & Reflexion
 
 ### Neues Thema erkunden
 ```
-Ich möchte über [Thema] lernen.
-Beginne damit, mein Vault nach vorhandenem Wissen zu durchsuchen.
-Hilf mir dann zu identifizieren, was ich recherchieren muss.
+Ich möchte mehr über [Thema] lernen (z. B. Ernährung, Investieren, Hochzeitsplanung).
+Schau zuerst, was ich dazu schon im Vault habe.
+Hilf mir dann zu sehen, wo meine Wissenslücken sind.
 ```
 
-### Argument entwickeln
+### Entscheidung durchdenken
 ```
-Ich versuche zu argumentieren, dass [These].
-Durchsuche meine Notizen nach unterstützenden Belegen.
-Welche Gegenargumente sollte ich ansprechen?
+Ich überlege [Entscheidung].
+Durchsuche meine Notizen nach allem, was relevant ist.
+Welche Aspekte habe ich noch nicht bedacht?
 ```
 
-## Projektmanagement
+## Projekte & Bereiche
 
 ### Projektstatus
 ```
-Überprüfe das Projekt in [Ordner].
-Was ist der aktuelle Status?
-Was sind die nächsten erforderlichen Schritte?
+Schau dir [01_Projects/Hochzeit | Fett to Fit | Rauchfrei] an.
+Wo stehe ich gerade?
+Was sind sinnvolle nächste Schritte?
 ```
 
-### Retrospektive erstellen
+### Projekt abschließen
 ```
-[Projekt] ist jetzt abgeschlossen.
-Überprüfe alle Notizen und erstelle eine Retrospektive mit:
-- Was erreicht wurde
-- Wichtigste Lernpunkte
-- Was nächstes Mal anders machen
+[Projekt] ist abgeschlossen.
+Geh alle Notizen durch und erstelle eine kurze Retrospektive:
+- Was habe ich erreicht
+- Was habe ich gelernt
+- Was würde ich beim nächsten Mal anders machen
+Verschiebe das Projekt danach ins 04_Archive.
+```
+
+## Finanzen
+
+### Finanz-Check
+```
+Schau dir 02_Areas/Finanzen an.
+- Wie sieht mein aktueller Stand bei Fixkosten, Sparen und Investitionen aus?
+- Passt mein Budget noch zu meinen Zielen (Hochzeit, Notgroschen, ETF)?
+- Wo könnte ich optimieren, ohne Lebensqualität einzubüßen?
+```
+
+### Sparziel planen
+```
+Ich möchte für [Ziel] sparen: [Betrag] bis [Datum].
+Schau in 02_Areas/Finanzen, was realistisch ist,
+und schlag mir einen monatlichen Sparplan vor.
+```
+
+### ETF- & Investment-Review
+```
+Geh meine Notizen zu Investments und ETF-Strategie durch.
+- Passt die aktuelle Aufteilung noch zu meiner Strategie?
+- Gibt es Klumpenrisiken oder offene Fragen?
+- Was sollte ich mir als Nächstes anschauen?
 ```
 
 ## Tägliche Abläufe
 
-### Morgenüberblick
+### Morgenstart
 ```
 Guten Morgen. Zeig mir:
-- Notizen, die gestern geändert wurden
-- Offene Aufgaben oder Fragen
-- Worauf sollte ich mich heute konzentrieren?
+- Was ich gestern in der Daily Note festgehalten habe
+- Offene Punkte aus den aktiven Projekten
+- Worauf ich mich heute konzentrieren sollte
 ```
 
 ### Tagesabschluss
 ```
-Tagesabschluss-Review:
-- Was habe ich heute erreicht?
-- Welche Fragen oder Ideen sind aufgetaucht?
-- Was sollte ich morgen priorisieren?
+Tagesabschluss für heute:
+- Was lief gut, was nicht?
+- Welche Gedanken oder Ideen sind aufgekommen?
+- Was nehme ich mir für morgen vor?
+Schreib das in 07_Daily/YYYY-MM-DD.md.
 ```
 
 ## Fortgeschrittene Techniken
 
-### Projekt-übergreifende Analyse
+### Verbindungen zwischen Lebensbereichen
 ```
-Vergleiche Erkenntnisse aus [Projekt A] und [Projekt B].
-Welche Muster gibt es in beiden?
-Was könnte jedes vom anderen lernen?
+Vergleiche meine Notizen aus [z. B. Gesundheit] und [z. B. Finanzen].
+Welche Muster oder Wechselwirkungen siehst du?
 ```
 
 ### Wissenslücken
@@ -150,8 +176,8 @@ Welche Fragen habe ich noch nicht gestellt?
 ### Idee entwickeln
 ```
 Ich habe diese grobe Idee: [Idee]
-Suche nach verwandten Konzepten in meinem Vault.
-Hilf mir, dies zu etwas Konkreterem auszubauen.
+Such nach verwandten Notizen in meinem Vault.
+Hilf mir, daraus etwas Konkreteres zu machen.
 ```
 
 ## Tipps für effektive Prompts
