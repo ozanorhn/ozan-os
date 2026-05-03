@@ -55,10 +55,9 @@ tags: [weekly-synthesis, review]
 
 ### Rauchfrei
 
-- **Status:** Startdatum war 27.04.2026 (Mo, KW18). Wenn gestartet: heute wäre **Tag 7** – erste Woche geschafft.
-- **Meilenstein in Reichweite:** "1 Woche – Das Schlimmste ist vorbei" (laut Fortschritt.md).
-- **Offen:** Fortschritt.md nicht aktualisiert (Tracking-Tabelle leer). Bitte tägliche Einträge nachpflegen.
-- **Nächste Woche:** Meilenstein "2 Wochen" im Blick. Cravings werden seltener – auf Trigger im Büroalltag (Di/Do) achten.
+- **Status:** Startdatum 27.04. ist verstrichen – **nicht gestartet**. Ozan raucht weiterhin aktiv.
+- **Offen:** Neues konkretes Startdatum fehlt. BU-Frist April 2027 ist weiterhin der Treiber – jeder Monat Verzögerung verkleinert den Puffer.
+- **Nächste Woche:** Neues Startdatum setzen. Vorbereitungs-Tasks (Pflaster, App) nachholen falls noch nicht erledigt.
 
 ### Finanzen
 
@@ -74,10 +73,10 @@ tags: [weekly-synthesis, review]
 
 ## Aufgetauchte Fragen
 
-- **Ist Ozan seit 27.04. tatsächlich rauchfrei?** → Bitte Fortschritt.md aktualisieren.
-- **Juwelier-Termin für Nişan Yüzükleri:** Noch machbar bis 30.05. ohne Vorab-Termin? Preis-Check nötig.
+- **Rauchfrei neues Startdatum:** 27.04. verpasst – wann wird der neue Termin gesetzt?
+- **Juwelier-Termin für Nişan Yüzükleri:** Noch kein Termin. Ring soll am 30.05. (Geburtstag) gemeinsam gesucht werden – funktioniert das ohne Vorab-Recherche/Termin?
 - **W5 Legs ausgefallen:** Was war der Grund? Vermeiden in W7.
-- **Körpergewicht:** 91 kg war am 10.04. – fast 4 Wochen ohne Messung. Trend unklar.
+- **Körpergewicht:** 91 kg war am 10.04. – wird morgen (Mo 04.05.) gemessen.
 
 ## Energie-Audit
 
@@ -95,7 +94,7 @@ tags: [weekly-synthesis, review]
 
 1. **Mo 04.05. wiegen** – Gewicht notieren, direkt vor Push-Training.
 2. **Riester-Anruf (Generali 0221-3395-7007)** – Di 05.05. spätestens, erledigt bevor Bürotag endet.
-3. **Rauchfrei-Tracking nachpflegen** – Fortschritt.md: Tage 1–7 eintragen.
+3. **Rauchfrei neues Startdatum setzen** – konkretes Datum, nicht "irgendwann".
 
 ## Zu verarbeiten
 
