@@ -1,7 +1,7 @@
 ---
 title: Hochzeitsfonds
 erstellt: 2026-04-19
-aktualisiert: 2026-04-19
+aktualisiert: 2026-05-03
 tags: [hochzeit, budget, finanzen, sparen]
 status: aktiv
 ---
@@ -60,15 +60,14 @@ Eigener Topf für alle Hochzeits-Ausgaben (Nişan + Düğün). **Getrennt** von 
 | Kategorie | Geschätzt | Fälligkeit |
 |-----------|----------:|------------|
 | Nişan Yüzükleri (Ringe) | 600–1.000 € | Mai 2026 |
-| Fotograf | 400–700 € | Mai 2026 (Buchung) |
 | Einladungen (Design + Druck) | 150–300 € | Mai–Jun 2026 |
 | Gelin Bohçası | 490–1.180 € | bis Jul 2026 (gestaffelt) |
 | Outfit (Anzug/Kleid) | 400–800 € | Jun–Jul 2026 |
 | Nişan Şekeri (Gastgeschenke) | 150–300 € | Aug 2026 |
 | Puffer Sonstiges | 300 € | – |
-| **Summe (Schätzung)** | **2.490–4.580 €** | |
+| **Summe (Schätzung)** | **2.090–3.880 €** | |
 
-**Lücken-Analyse:** Fonds-Stand zum Nişan = 2.000 €. Bei Mittelwert Ausgaben (~3.500 €) → **~1.500 € Lücke**.
+**Lücken-Analyse:** Fonds-Stand zum Nişan = 2.000 €. Bei Mittelwert Ausgaben (~2.985 €) → **~985 € Lücke**.
 → Optionen: (a) laufend aus Gehalt zuzahlen, (b) vor Juli Einzahlung erhöhen, (c) Kategorie-Priorisierung.
 
 ---

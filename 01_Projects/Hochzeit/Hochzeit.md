@@ -3,7 +3,7 @@ title: Hochzeit
 type: moc
 status: aktiv
 erstellt: 2026-03-28
-aktualisiert: 2026-04-19
+aktualisiert: 2026-05-03
 tags: [projekt, hochzeit, persönlich]
 ---
 
@@ -48,10 +48,10 @@ Türkische Hochzeit – mit allen Traditionen:
 | Monat | Meilenstein |
 |-------|-------------|
 | **Apr 2026** (KW 17) | Juwelier-Termin für Nişan Yüzükleri vereinbaren |
-| **Mai 2026** | Fotograf buchen (5 Mo vorher), Einladungen designen |
+| **Mai 2026** | Einladungen designen |
 | **Juni 2026** | Einladungen versenden (3–4 Mo vorher), Outfit-Anprobe |
 | **Juli 2026** | Catering bestätigen, Gelin Bohçası final |
-| **August 2026** | Fotograf Final-Briefing, Detail-Checkliste, Nişan Şekeri |
+| **August 2026** | Detail-Checkliste, Nişan Şekeri |
 | **Sep 2026** | **🎉 Nişan 19.09.2026** |
 
 ## Nächste Schritte
@@ -63,7 +63,7 @@ Türkische Hochzeit – mit allen Traditionen:
 - [x] Takı & Altın ✓ vorbereitet
 - [ ] **Juwelier-Termin für Nişan Yüzükleri** vereinbaren (Do 30.04.2026)
 - [ ] Gelin Bohçası: 1 Kategorie pro Woche ab KW 17 → komplett in 8 Wochen (siehe [[Gelin Bohçası Checkliste]])
-- [ ] Fotograf für Nişan – Sedef kümmert sich (Option: Fotograf vom Antrag) → Buchung Mai
+- [x] Fotograf für Nişan – kein Fotograf gewünscht (Entscheidung Apr 2026)
 - [ ] Einladungen versenden – **bis Ende Juni 2026**
 - [ ] Gästeliste finalisieren (erst für Düğün 2027 nötig)
 - [ ] Standesamt Termin buchen (Aug/Sep 2027, ca. 1–2 Monate vor Hochzeit)

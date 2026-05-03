@@ -29,10 +29,10 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 | Monat | Meilenstein / Aufgaben |
 |-------|------------------------|
 | **April 2026** | Söz Kesme offen · Gelin Bohçası Einkaufs-Kadenz startet ab KW 17 (25.04.) |
-| **Mai 2026** | Bohça weiter (Handtücher, Kosmetik, Make-up, Schmuck) · Fotograf Nişan buchen |
-| **Juni 2026** | Bohça abschließen (bis KW 24, 13.06.) · Verlobungsringe kaufen · Nişan Tepsisi & Şekeri |
+| **Mai 2026** | Bohça weiter (Handtücher, Kosmetik, Make-up, Schmuck) · Verlobungsring suchen & kaufen (30.05., Geburtstag Ozan) · Nilüfer Jobsuche – Vertrag unterschrieben bis Ende Mai |
+| **Juni 2026** | Bohça abschließen (bis KW 24, 13.06.) · Dekoration Nişan bestellen · Kleid suchen (Nilüfer) · Nişan Tepsisi & Şekeri |
 | **Juli 2026** | Outfit Bräutigam (Anzug) · Braut-Outfit abstimmen mit Nilüfer · Einladungskarten drucken |
-| **August 2026** | Catering/Deko Nişan finalisieren · Einladungen versenden · Probelauf Ablauf |
+| **August 2026** | Damat Bohçası fertigstellen – Nilüfer (Deadline: Ende August) · Catering/Deko Nişan finalisieren · Einladungen versenden · Probelauf Ablauf |
 | **September 2026** | **Nişan Töreni – 19.09.2026** · Gelin Bohçası überreichen · Şerbet-Zeremonie |
 | **Okt–Dez 2026** | Nachbereitung, Fotos archivieren, erste Düğün-Vorplanung (Catering-Angebote sichten) |
 
@@ -61,7 +61,9 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 ## 2. Nişan Töreni (Verlobungsfeier) – 19.09.2026
 
 ### Kaufen / Beschaffen
-- [ ] Verlobungsringe (Nişan Yüzükleri) – **beide Ringe!**
+- [ ] Verlobungsringe (Nişan Yüzükleri) – **beide Ringe!** (geplant: 30.05., Geburtstag Ozan)
+- [ ] Nişan-Geschenke – Nilüfer bestellt (bis Anfang Mai)
+- [ ] Takım Elbise für Nişan – Nilüfer kauft (Deadline: Anfang September)
 - [ ] Roter Satinband (rotes Band für Ringzeremonie)
 - [ ] Nişan Tepsisi (Verlobungstablett mit Süßigkeiten, Schokolade, Lokum)
 - [ ] Nişan Şekeri (Zuckermandeln für Gäste)
@@ -86,6 +88,16 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 - [ ] Gelin Bohçası zusammenstellen → [[Gelin Bohçası Checkliste]]
 - [ ] Einkäufe mit Mutter / Schwester planen
 - [ ] Feierlich verpacken (Bohça-Tuch, rotes Band)
+
+---
+
+## 3b. Damat Bohçası – Bräutigam-Bündel (Nilüfer bereitet für Ozan vor)
+
+> [!note] Wann?
+> Wird bei der Verlobungsfeier (Nişan) übergeben. Nilüfer bereitet dies für Ozan vor (Kleidung, Accessoires, etc.).
+
+- [ ] Damat Bohçası zusammenstellen – Nilüfer (Deadline: Ende August)
+- [ ] Ozan schickt Nilüfer Wunschvorschläge (Kleidung, Schuhe, Accessoires)
 
 ---
 
@@ -176,7 +188,7 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 - [x] Hochzeitssaal ✓ gebucht
 - [x] Nişan-Location ✓ (Frau-Seite)
 - [ ] Gelin Bohçası einkaufen
-- [ ] Fotograf für Nişan buchen
+- [x] Fotograf für Nişan – kein Fotograf gewünscht (Entscheidung Apr 2026)
 - [ ] Gästeliste erstellen (erst 2027 nötig)
 - [ ] Standesamt Termin buchen (Aug/Sep 2027)
 

@@ -34,43 +34,53 @@ ende: 2026-05-24
 
 ## Tag 1 – PUSH (Montag)
 
-| Übung | Sätze | Wdh. | Pause |
-|-------|-------|------|-------|
-| LH-Schrägbankdrücken | 4 | 8–12 | 2 min |
-| Brustpresse | 3 | 8–12 | 2 min |
-| Butterfly | 3 | 10–12 | 1 min |
-| KH-Schulterdrücken | 3 | 8–12 | 2 min |
-| Seitheben am Kabelzug | 4 | 10–12 | 1 min |
-| Trizeps Pushdown | 3 | 8–12 | 1 min |
-| Einarmige Kickbacks am Kabelturm | je 2 | 8–12 | 1 min |
+> Ziel: ~65 Min. | Supersatz markiert mit ⚡
+
+| Übung | Sätze | Wdh. | Pause | RIR |
+|-------|-------|------|-------|-----|
+| LH-Schrägbankdrücken | 4 | 8–12 | 2 min | S1–3: 2 RIR / S4: Failure |
+| Brustpresse | 3 | 8–12 | 2 min | S1–2: 2 RIR / S3: Failure |
+| ⚡ Butterfly | 3 | 10–12 | – | S1–2: 1 RIR / S3: Failure |
+| ⚡ Reverse Butterfly | 3 | 12–15 | 1 min | S1–2: 1 RIR / S3: Failure |
+| KH-Schulterdrücken | 3 | 8–12 | 2 min | S1–2: 2 RIR / S3: Failure |
+| ⚡ Seitheben am Kabelzug | 4 | 10–12 | – | S1–3: 1 RIR / S4: Failure |
+| ⚡ Trizeps Pushdown | 3 | 8–12 | 1 min | S1–2: 1 RIR / S3: Failure |
+| Einarmige Kickbacks am Kabelturm | je 2 | 8–12 | 1 min | S1: 1 RIR / S2: Failure |
+
+> ⚡ Supersatz = beide Übungen direkt hintereinander, dann 1 Min. Pause
 
 ---
 
 ## Tag 2 – PULL (Mittwoch)
 
-| Übung | Sätze | Wdh. | Pause |
-|-------|-------|------|-------|
-| Latzug | 4 | 8–12 | 2 min |
-| T-Bar Rudern | 3 | 8–12 | 2 min |
-| Kabelrudern eng | 3 | 8–12 | 1 min |
-| Hyperextension | 3 | 12–15 | 1 min |
-| Reverse Butterfly | 3 | 12–15 | 1 min |
-| KH-Bizepscurls | 3 | 8–12 | 1 min |
-| Bizepsmaschine | 3 | 8–12 | 1 min |
+> Ziel: ~60 Min. | RIR-Regel beachten – NICHT alle Sätze bis Versagen!
+
+| Übung | Sätze | Wdh. | Pause | RIR |
+|-------|-------|------|-------|-----|
+| Latzug | 4 | 8–12 | 2 min | S1–3: 2 RIR / S4: Failure |
+| Rudern sitzend | 3 | 8–12 | 2 min | S1–2: 2 RIR / S3: Failure |
+| Kabelrudern eng | 3 | 8–12 | 1 min | S1–2: 1 RIR / S3: Failure |
+| ⚡ Hyperextension | 3 | 12–15 | – | S1–2: 1 RIR / S3: Failure |
+| ⚡ KH-Bizepscurls | 3 | 8–12 | 1 min | S1–2: 1 RIR / S3: Failure |
+| SZ-Stange | 3 | 8–12 | 1 min | S1–2: 1 RIR / S3: Failure |
+
+> Brustpresse & Bizepsmaschine entfernt – Brust hat Mo genug Volume, Bizeps durch SZ-Stange abgedeckt
 
 ---
 
 ## Tag 3 – LEGS (Freitag)
 
-| Übung | Sätze | Wdh. | Pause |
-|-------|-------|------|-------|
-| Squats | 4 | 8–10 | 2–3 min |
-| Beinpresse | 3 | 8–10 | 2 min |
-| Beinbeuger | 3 | 10–12 | 1 min |
-| Beinstrecker | 3 | 10–12 | 1 min |
-| Wadenheben stehend | 4 | 15–20 | 1 min |
-| Crunches | 3 | 15–20 | 1 min |
-| Leg Raises | 2 | 12–15 | 1 min |
+> Ziel: ~65 Min. | Hackenschmidt ist Primary bis Freihanteltechnik sitzt
+
+| Übung | Sätze | Wdh. | Pause | RIR |
+|-------|-------|------|-------|-----|
+| Hackenschmidt (statt Squats) | 4 | 8–10 | 2–3 min | S1–3: 2 RIR / S4: Failure |
+| Beinpresse | 3 | 8–10 | 2 min | S1–2: 2 RIR / S3: Failure |
+| Beinbeuger | 3 | 10–12 | 1 min | S1–2: 1 RIR / S3: Failure |
+| Beinstrecker | 3 | 10–12 | 1 min | S1–2: 1 RIR / S3: Failure |
+| Wadenheben stehend | 4 | 15–20 | 1 min | S1–3: 1 RIR / S4: Failure |
+| Leg Raises | 2 | 12–15 | 1 min | S2: Failure |
+| Bauchmaschine | 3 | 15–20 | 1 min | S1–2: 1 RIR / S3: Failure |
 
 ---
 

@@ -8,12 +8,19 @@ kanban-plugin: board
 
 - [ ] Gästeliste erstellen (erst 2027 nötig)
 - [ ] Standesamt Termin buchen (Aug/Sep 2027)
+- [ ] Dekoration Nişan – Nilüfer (Deadline: Ende Juni)
+- [ ] Kleid suchen – Nilüfer (Juni) · gemeinsam kaufen
+- [ ] Damat Bohçası – Nilüfer bereitet vor (Deadline: Ende August) · Ozan schickt Wunschvorschläge
+- [ ] Takım Elbise Nişan – Nilüfer kauft (Deadline: Anfang September)
 
 
 ## In Arbeit
 
 - [ ] Gelin Bohçası einkaufen
-- [ ] Fotograf für Nişan – Sedef kümmert sich (Option: Fotograf vom Antrag)
+- [ ] Nişan-Geschenke bestellen – Nilüfer (bis Anfang Mai)
+- [ ] Verlobungsring kaufen – 30.05. Geburtstag Ozan (gemeinsam suchen)
+- [ ] Nilüfer bei Jobsuche unterstützen (Vertrag unterschrieben bis Ende Mai)
+- [x] Fotograf für Nişan – kein Fotograf gewünscht (Entscheidung Apr 2026)
 - [ ] Türkische Hochzeit Checkliste durcharbeiten
 
 
