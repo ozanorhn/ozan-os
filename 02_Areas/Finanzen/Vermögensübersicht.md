@@ -2,13 +2,16 @@
 title: Vermögensübersicht
 typ: finanzen
 erstellt: 2026-04-08
-aktualisiert: 2026-04-19
+aktualisiert: 2026-05-08
 tags: [finanzen, übersicht, vermögen]
 ---
 
 # Vermögensübersicht
 
-Stand: **2026-04-19** (17:28 Uhr – TR + Scalable Live-Werte)
+Stand: **2026-05-08** (TR + Scalable Live-Werte)
+
+> [!warning] Aktuelles Ereignis
+> Anfang Mai 3.090 € aus TR-Cash als **Privat-Hilfe** geflossen → bilanziell als **Forderung** in Aktiva geführt (Rückzahlung erwartet). **Liquiditäts-Effekt bleibt bestehen:** TR-Cash 6.230,43 € liegt jetzt unter Notgroschen-Ziel 6.700 € (~−470 €). Bis die Forderung zurückkommt, ist der Notgroschen formal nicht voll – neues Kapital geht **nicht** in andere Töpfe.
 
 > [!important] Zwei getrennte Welten
 > **Langfristiger Vermögensaufbau** läuft über **Scalable Capital** (ETF-Strategie).
@@ -21,12 +24,13 @@ Stand: **2026-04-19** (17:28 Uhr – TR + Scalable Live-Werte)
 
 | Kategorie | Konto | Horizont | Betrag |
 |-----------|-------|----------|-------:|
-| ETF-Portfolio + Guthaben | Scalable | langfristig (20+ J.) | 2.203,52 € |
-| Cash (Notgroschen + Immobilien-EK) | Trade Republic | jederzeit | 9.320,72 € |
-| Einzelaktien / Gold / Derivate | Trade Republic | kurzfristig | 1.365,67 € |
+| ETF-Portfolio + Guthaben | Scalable | langfristig (20+ J.) | 2.284,65 € |
+| Cash (Notgroschen + Immobilien-EK) | Trade Republic | jederzeit | 6.230,43 € |
+| Einzelaktien / Gold / Derivate | Trade Republic | kurzfristig | 1.338,99 € |
 | Riester-Rentenversicherung | Generali | bis 2068 | 900 € |
 | Bauspar-Guthaben (→ Immobilien-Darlehen 2,85 %) | Badenia | mittelfristig | 1.420 € |
-| **Gesamt Aktiva** | | | **~15.210 €** |
+| Privat-Forderung (Rückzahlung erwartet) | – | unklar | 3.090 € |
+| **Gesamt Aktiva** | | | **~15.264 €** |
 
 ### Verbindlichkeiten
 
@@ -40,9 +44,11 @@ Stand: **2026-04-19** (17:28 Uhr – TR + Scalable Live-Werte)
 
 | | Betrag |
 |---|---:|
-| Aktiva | ~15.210 € |
+| Aktiva (inkl. Privat-Forderung) | ~15.264 € |
 | Verbindlichkeiten | ≥ −5.813 € |
-| **Nettovermögen** | **~9.397 €** |
+| **Nettovermögen** | **~9.451 €** |
+
+**Veränderung seit 19.04.:** ~+54 € (im Wesentlichen Markt; die 3.090 € Privat-Hilfe sind als Forderung bilanzneutral, aber **liquiditätsmäßig fehlen sie**).
 
 ---
 
@@ -53,41 +59,41 @@ Kernstrategie: **2-ETF 80/20** ([[ETF-Strategie]]) – Langfrist-Vermögensaufba
 
 | ETF | Wert | Sparplan |
 |-----|-----:|---------:|
-| Vanguard FTSE All-World | 1.693,78 € | 200 €/M |
-| Xtrackers MSCI EM | 472,90 € | 50 €/M |
+| Vanguard FTSE All-World | 1.742,43 € | 200 €/M |
+| Xtrackers MSCI EM | 505,43 € | 50 €/M |
 | Guthaben (Cash in Scalable) | 36,84 € | — |
-| **Gesamt** | **2.203,52 €** | **250 €/M** |
+| **Gesamt** | **2.284,65 €** | **250 €/M** |
 
 ### Trade Republic → [[Trade-Republic-Portfolio]] (kurzfristig)
 Notgroschen + kurzfristige Einzelinvestments / taktische Trades – **getrennt** von der ETF-Strategie
 
 | Bereich | Wert |
 |---------|-----:|
-| Cash (verzinst) | 9.320,72 € |
-| Gold (ETC) | 562,65 € |
-| Deutsche Telekom | 333,95 € |
-| China-Einzelaktien (BABA + JD) | 260,95 € |
-| Crypto (XRP + Solana) | 148,44 € |
-| Derivat (Broadcom Turbo) | 59,16 € |
-| **Gesamt** | **~10.686 €** |
+| Cash (verzinst) | 6.230,43 € |
+| Gold (ETC, Physical Gold USD Acc) | 554,24 € |
+| Deutsche Telekom | 310,56 € |
+| China-Einzelaktien (BABA + JD) | 255,82 € |
+| Crypto (XRP + Solana) | 152,21 € |
+| Derivat (Broadcom Turbo) | 66,24 € |
+| **Gesamt** | **~7.569 €** |
 
 ---
 
 ## Aufteilung nach Anlageklasse
 
-Bezogen auf liquide Assets (TR + Scalable, ohne Riester/Bauspar = ~12.890 €):
+Bezogen auf liquide Assets (TR + Scalable, ohne Riester/Bauspar = ~9.854 €):
 
 | Klasse | Wert | Anteil |
 |--------|-----:|-------:|
-| Cash / Liquidität (TR + Scalable-Guthaben) | 9.357,56 € | 73 % |
-| Aktien-ETFs (weltweit diversifiziert) | 2.166,68 € | 17 % |
-| Gold (ETC) | 562,65 € | 4 % |
-| Einzelaktien (DTE + BABA + JD) | 594,90 € | 5 % |
-| Crypto (XRP + Solana) | 148,44 € | 1 % |
-| Derivate (Broadcom Turbo) | 59,16 € | <1 % |
+| Cash / Liquidität (TR + Scalable-Guthaben) | 6.267,27 € | 64 % |
+| Aktien-ETFs (weltweit diversifiziert) | 2.247,86 € | 23 % |
+| Gold (ETC) | 554,24 € | 6 % |
+| Einzelaktien (DTE + BABA + JD) | 566,38 € | 6 % |
+| Crypto (XRP + Solana) | 152,21 € | 2 % |
+| Derivate (Broadcom Turbo) | 66,24 € | <1 % |
 
 > [!info] Beobachtung
-> Cash-Anteil weiterhin sehr hoch (73 %) – sinnvoll für Notgroschen + Immo-EK. ETF-Anteil ist seit 08.04. von 16 % auf 17 % gestiegen (Sparplan + Kurszuwachs). Sobald Notfallpuffer sauber getrennt ist, arbeitet zusätzliches Cash bei 2 % Zinsen langfristig schlechter als der Aktienmarkt.
+> Cash-Anteil ist von 73 % auf **64 %** gefallen – aber **nicht durch Umschichtung in ETFs**, sondern durch den Privat-Hilfe-Abfluss. ETF-Anteil ist mechanisch von 17 % auf 23 % gestiegen, weil der Nenner kleiner wurde. Realer ETF-Zuwachs nur ~+80 €. **Priorität jetzt: Notgroschen wieder auf 6.700 € auffüllen, bevor Scalable-Sparplan auf 300 € erhöht wird.**
 
 ---
 
@@ -121,26 +127,29 @@ Davon automatisiert gespart/getilgt:
 
 ## Hochzeits-Puffer (eigener Topf)
 
-Neue Budget-Kategorie ab **Mai 2026**: **400 €/M "Hochzeitsfonds"** aus den 1.642 € frei verfügbar.
+Geplante Budget-Kategorie: **400 €/M "Hochzeitsfonds"** aus den 1.642 € frei verfügbar.
+**Start verschoben auf Juni 2026** – Mai-Liquidität geht erst in Notgroschen-Auffüllung (Privat-Hilfe-Lücke).
 Separat von TR-Cash – so kollidiert Hochzeit nie mit Notgroschen oder Immo-EK.
-Ziel: Bis Nişan (19.09.2026) ~2.000 € Hochzeits-Puffer für Ringe, Fotograf, Outfit, Gelin Bohçası.
+Ziel: Bis Nişan (19.09.2026) ~1.600 € Hochzeits-Puffer (4 Monate × 400 €) für Ringe, Fotograf, Outfit, Gelin Bohçası.
 
 ---
 
-## TR-Einzelinvestments – Exit-Trigger (Stand 19.04.2026)
+## TR-Einzelinvestments – Exit-Trigger (Stand 08.05.2026)
 
-| Position | Aktuell | Trigger | Aktion |
-|----------|--------:|---------|--------|
-| Solana | **−57,15 %** | ⚠️ neu erfasst – Strategie offen | Entscheiden: halten oder Verlust realisieren |
-| XRP | **−45,21 %** | ⚠️ neu erfasst – Strategie offen | Entscheiden: halten oder Verlust realisieren |
-| Alibaba (BABA) | −15,60 % (von −23,79 %) | erholt sich – bei Rückkehr auf −10 % | verkaufen → ETF |
-| JD.com | −9,61 % (von −15,86 %) | Schwelle erreicht | **verkaufen → ETF** |
-| Broadcom Turbo (Open End) | **+23,15 %** (von −14,82 %) | Gewinn mitnehmen? | Exit bei nächster Korrektur erwägen |
-| Deutsche Telekom | +15,30 % | halten (Dividenden-Performer) | — |
-| Physical Gold | +12,34 % | halten (Diversifier) | — |
+| Position | Wert | P&L (€) | P&L (%) | Aktion |
+|----------|-----:|--------:|--------:|--------|
+| Physical Gold (USD Acc) | 554,24 € | +53,38 € | +10,7 % | halten (Diversifier) |
+| Deutsche Telekom | 310,56 € | +20,91 € | +7,2 % | halten (Dividenden-Performer) |
+| Alibaba (BABA) | 168,79 € | −32,21 € | −16,0 % | bei Rückkehr auf −10 % → ETF |
+| JD.com | 87,03 € | −13,97 € | −13,8 % | **verkaufen → ETF** (Schwelle erreicht) |
+| XRP | 82,55 € | −69,50 € | **−45,7 %** | ⚠️ Strategie offen |
+| Solana | 69,66 € | −82,35 € | **−54,2 %** | ⚠️ Strategie offen |
+| Broadcom Turbo (Open End) | 66,24 € | +18,20 € | **+37,9 %** | Gewinn mitnehmen erwägen |
+| **Summe** | **1.338,99 €** | | | |
 
+**Beobachtung 08.05.:** Gold und Telekom tragen die Performance. Crypto-Positionen weiterhin tief im Minus (zusammen −151,85 €). Broadcom Turbo hat sich von +23 % auf +38 % weiter verbessert.
 **Regel Jahresende 2026:** Alle Verlustpositionen geschlossen. Kein neues Kapital in Derivate.
-**Offen:** Crypto (SOL, XRP) war bisher nicht Teil der Strategie – klare Regel definieren.
+**Offen:** Crypto (SOL, XRP) war nie Teil der Strategie – klare Regel definieren oder realisieren.
 
 ---
 
