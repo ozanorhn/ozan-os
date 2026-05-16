@@ -2,13 +2,16 @@
 title: Claude Skills & Commands
 typ: referenz
 erstellt: 2026-04-10
-aktualisiert: 2026-04-10
+aktualisiert: 2026-04-26
 tags: [claude, skills, commands, referenz]
+version: "0.15.1"
 ---
 
 # Claude Skills & Commands
 
 Übersicht aller verfügbaren Slash-Commands und Skills in diesem Vault.
+
+> **Hinweis (v0.15.1):** Viele Commands existieren jetzt auch als Skills – d.h. sie werden zusätzlich zum manuellen `/`-Aufruf automatisch von Claude aktiviert, wenn der Kontext passt.
 
 ## Commands (Slash-Commands)
 
@@ -16,12 +19,12 @@ Aufruf: `/command-name` in Claude Code
 
 ### Persönlicher Workflow
 
-| Command | Aufruf | Beschreibung |
-|---|---|---|
-| Daily Review | `/daily-review` | Tagesrückblick |
+| Command          | Aufruf              | Beschreibung                                       |
+| ---------------- | ------------------- | -------------------------------------------------- |
+| Daily Review     | `/daily-review`     | Tagesrückblick – auch auto-getriggert              |
 | Weekly Synthesis | `/weekly-synthesis` | Wöchentliches Review inkl. Gym & Rauchfrei-Analyse |
-| Thinking Partner | `/thinking-partner` | Denkpartner-Modus für komplexe Fragen |
-| Inbox Processor | `/inbox-processor` | 00_Inbox leeren und nach PARA verarbeiten |
+| Thinking Partner | `/thinking-partner` | Denkpartner-Modus für komplexe Fragen              |
+| Inbox Processor  | `/inbox-processor`  | 00_Inbox leeren und nach PARA verarbeiten          |
 
 ### Projekte & Bereiche
 
@@ -34,12 +37,12 @@ Aufruf: `/command-name` in Claude Code
 
 ### Wissensmanagement
 
-| Command               | Aufruf                   | Beschreibung                                           |
-| --------------------- | ------------------------ | ------------------------------------------------------ |
-| Resource Creator      | `/resource-creator`      | URL oder Thema → atomare Wissensnotiz in 03_Resources  |
+| Command | Aufruf | Beschreibung |
+|---|---|---|
+| Resource Creator | `/resource-creator` | URL oder Thema → atomare Wissensnotiz in 03_Resources |
 | Entscheidungs-Journal | `/entscheidungs-journal` | Entscheidung dokumentieren: Optionen, Wahl, Begründung |
-| Research Assistant    | `/research-assistant`    | Recherche-Assistent                                    |
-| Add Frontmatter       | `/add-frontmatter`       | YAML-Frontmatter zu Notizen hinzufügen                 |
+| Research Assistant | `/research-assistant` | Recherche-Assistent |
+| Add Frontmatter | `/add-frontmatter` | YAML-Frontmatter zu Notizen hinzufügen |
 
 ### Projektmanagement
 
@@ -69,15 +72,41 @@ Aufruf: `/command-name` in Claude Code
 
 Skills werden von Claude automatisch aktiviert, wenn der Kontext passt – kein manueller Aufruf nötig.
 
+### Vault & Obsidian
+
 | Skill | Trigger | Beschreibung |
 |---|---|---|
 | `obsidian-markdown` | Beim Arbeiten mit .md Dateien | Obsidian-Markdown: Wikilinks, Callouts, Frontmatter, Embeds |
 | `obsidian-bases` | Bei .base Dateien / Datenbank-Views | Obsidian Bases: Tabellen, Filter, Formeln, Views |
 | `json-canvas` | Bei .canvas Dateien | Canvas-Dateien: Nodes, Edges, Gruppen |
+| `add-frontmatter` | Bei Frontmatter-Arbeit | YAML-Frontmatter hinzufügen/aktualisieren |
+| `download-attachment` | Bei Datei-Downloads | Anhänge herunterladen und organisieren |
+
+### Workflow & Produktivität
+
+| Skill | Trigger | Beschreibung |
+|---|---|---|
+| `daily-review` | EOD / Tagesrückblick | Tagesreview und Planung für morgen |
+| `weekly-synthesis` | Wochenreview-Kontext | Wöchentliche Synthese erstellen |
+| `thinking-partner` | Problemlösung / Exploration | Kollaboratives Denken, nicht Lösung vorgeben |
+| `inbox-processor` | Inbox-Verarbeitung | 00_Inbox nach PARA organisieren |
+| `research-assistant` | Recherche-Anfragen | Themen recherchieren und synthetisieren |
+
+### Entwicklung & Tools
+
+| Skill | Trigger | Beschreibung |
+|---|---|---|
 | `google-tasks` | Bei Erwähnung von Tasks / Google Tasks | Tasks via `gws` CLI abrufen und verwalten |
-| `skill-creator` | Beim Erstellen neuer Skills/Commands | Anleitung für effektive Skills und Commands |
+| `skill-creator` | Beim Erstellen/Verbessern von Skills | Iterativer Skill-Entwicklungs-Workflow mit Evals |
 | `git-worktrees` | Bei isolierter Entwicklung / Branch-Arbeit | Git Worktrees für parallele Entwicklung |
 | `systematic-debugging` | Bei Bugs / Fehlern / unerwartetem Verhalten | Debugging: Ursache zuerst, dann Fix |
+| `pragmatic-review` | Code/Text-Review | YAGNI & KISS Prinzipien |
+| `de-ai-ify` | KI-Jargon erkannt | KI-Sprache entfernen, menschliche Stimme wiederherstellen |
+| `pull-request` | PR-Erstellung | Branch, Commit, Push, PR öffnen |
+| `release` | Release-Workflow | Version, Changelog, Tag, Push |
+| `upgrade` | Claudesidian-Update | Intelligentes Upgrade mit Customization-Erhalt |
+| `init-bootstrap` | Neues Vault-Setup | CLAUDE.md Setup-Wizard |
+| `install-claudesidian-command` | Shell-Setup | Claudesidian als Shell-Command installieren |
 
 ---
 

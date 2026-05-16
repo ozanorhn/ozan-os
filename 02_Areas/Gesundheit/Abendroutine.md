@@ -1,7 +1,8 @@
 ---
 title: Abendroutine
 erstellt: 2026-04-11
-tags: [gesundheit, routine, gewohnheiten, schlaf, rauchfrei]
+aktualisiert: 2026-05-09
+tags: [gesundheit, routine, gewohnheiten, schlaf, sharma, pre-sleep]
 status: aktiv
 ---
 
@@ -9,33 +10,52 @@ status: aktiv
 
 Trigger: **Telefonat aufgelegt** → Routine startet. Keine Uhrzeit, nur dieser Moment.
 
-> [!tip] Kernprinzip
-> Die Lücke nach dem Telefonat sofort füllen – bevor das Handy es tut.
+> [!quote] Sharma – Pre-Sleep Ritual
+> Wer den Abend nicht besitzt, verliert den Morgen. Der Morgen wird abends gewonnen.
 
 ---
 
-## Schlafziel
+## Schlafziel (aktueller Stand)
 
-| Tag | Telefonat bis | Schlafen | Aufstehen |
-|-----|--------------|----------|-----------|
-| Wochentags (Regel) | ~22:00 | ~22:30–23:00 | 6:30–7:00 |
-| Bürotag | ~22:00 | ~22:00–22:30 | 6:00 |
-| Manche Abende | später | später – akzeptieren | anpassen |
-| Wochenende | flexibel | flexibel | 7:00–7:30 |
+Ozan schläft aktuell zwischen **22:30 und 23:30** und steht zwischen **9:00+ Uhr** auf. Das ist näher am Ziel als gedacht – das Hauptproblem ist die Weckzeit, nicht das Einschlafen.
 
-**Ziel: 7–8 Stunden Schlaf.** Früher aufstehen funktioniert nur wenn früher schlafen.
+| Tag | Schlafen | Aufstehen |
+|-----|----------|-----------|
+| **Aktuell** | 22:30–23:30 | 9:00+ (~9,5–11h Schlaf) |
+| **W1–2 (10.05.–23.05.)** | wie bisher | 7:30 (Frühaufsteher-Phase 1) |
+| **Ziel ab 05.07.2026** | 21:30 | 5:00 (Victory Hour) |
+
+Details zur 10-Wochen-Transition: [[Frühaufsteher-Plan]]
+
+> [!important] 7,5 Stunden sind das Optimum
+> Sharma: 5 Zyklen à 90 Min. = 7,5 Stunden. Mehr als 9h ist genauso suboptimal wie weniger als 6h. Dass du aktuell 9,5–11h schläfst zeigt: dein Körper braucht keine 11h, du hast nur keinen Grund früher aufzustehen.
 
 ---
 
-## Die Routine
+## Die Routine – nach Telefonat
 
 | Schritt | Was | Warum |
 |---------|-----|-------|
-| 1 | **Ashwagandha + Magnesium sofort** | [[01_Projects/Fett to Fit/Ernährung/Supplements & Routine\|Supplements]] direkt nach Auflegen – bevor Handy |
+| 1 | **Ashwagandha + Magnesium sofort** | Direkt nach Auflegen – bevor Handy. Cortisol senken. |
 | 2 | Paar **Liegestütze** | Körper noch mal kurz aktivieren, dann besser runterfahren |
 | 3 | Zähne putzen + Gesicht waschen | |
-| 4 | **Kindle** – paar Seiten lesen | Ersetzt das Handy-Scrollen, bringt den Kopf runter |
-| 5 | Licht aus, **Handy weg** | Kein Einschlafen mit Handy |
+| 4 | **Klamotten + Gymtasche für morgen rauslegen** | Sharma + Clear: Decision Fatigue am Morgen = null |
+| 5 | **Kindle** – paar Seiten lesen | Ersetzt Handy-Scrollen, Kopf runter |
+| 6 | Licht aus, **Handy weg** | Kein Einschlafen mit Handy |
+
+---
+
+## Pre-Sleep Schritt-für-Schritt zur Victory Hour
+
+Mit der Frühaufsteher-Phase verschiebt sich die Abend-Disziplin Schritt für Schritt:
+
+| Phase | Wann | Bildschirm-Stopp | Licht aus |
+|-------|------|------------------|-----------|
+| **Jetzt: W1–2** | 10.05.–23.05. | wie bisher | wie bisher |
+| W3–4 | 24.05.–06.06. | ~22:00 (Handy raus aus Schlafzimmer) | 22:30 |
+| W5–6 | 07.06.–20.06. | ~21:30 | 22:15 |
+| W7–8 | 21.06.–04.07. | ~21:00 | 22:00 |
+| **Ziel: W9–10** | 05.07.–18.07. | 20:00 (alle Geräte aus) | 21:30 |
 
 ---
 
@@ -43,7 +63,7 @@ Trigger: **Telefonat aufgelegt** → Routine startet. Keine Uhrzeit, nur dieser 
 
 Nach dem Telefonat entsteht eine Stille – Langeweile füllt sich automatisch mit Handy. Das Handy gibt dem Kopf das Signal *noch nicht schlafen* → man schläft irgendwann ein, aber ohne wirklich abzuschalten → morgens nie richtig ausgeruht.
 
-Der Kindle ersetzt die Langeweile. Schritt 1 verhindert das unbewusste Greifen zum Handy.
+Der Kindle ersetzt die Langeweile. Schritt 1 verhindert das unbewusste Greifen zum Handy. Schritt 4 (Klamotten rauslegen) ist der Hebel für den Morgen.
 
 > [!quote] Erkenntnis aus dem Gespräch
 > "Ich wache auf als hätte ich nie wirklich abgeschaltet."
@@ -55,6 +75,7 @@ Der Kindle ersetzt die Langeweile. Schritt 1 verhindert das unbewusste Greifen z
 - [ ] Ashwagandha + Magnesium direkt nach Auflegen
 - [ ] Liegestütze gemacht
 - [ ] Zähne + Gesicht
+- [ ] **Klamotten + Tasche für morgen rauslegen**
 - [ ] Kindle statt Handy
 - [ ] Handy weggelegt beim Einschlafen
 
@@ -62,6 +83,7 @@ Der Kindle ersetzt die Langeweile. Schritt 1 verhindert das unbewusste Greifen z
 
 ## Verbundene Notizen
 
-- [[02_Areas/Gesundheit/Morgenroutine|Morgenroutine]]
+- [[Morgenroutine]] – Wecker-Protokoll, Victory Hour
+- [[Frühaufsteher-Plan]] – 10-Wochen-Transition
 - [[01_Projects/Fett to Fit/Ernährung/Supplements & Routine|Supplements & Routine]]
-- [[01_Projects/Rauchfrei/Trigger-Analyse|Trigger-Analyse]]
+- [[Trigger-Analyse]] – Rauchfrei-Trigger (Abend-Routine relevant für nächsten Versuch)

@@ -1,10 +1,15 @@
 ---
 titel: Trigger-Analyse
 datum: 2026-03-30
+aktualisiert: 2026-05-09
 tags: [rauchfrei, analyse]
+status: vorbereitung
 ---
 
 # Meine Rauch-Trigger
+
+> [!info] Stand 09.05.2026
+> Diese Tabelle wurde vor dem (nicht stattgefundenen) Versuch am 27.04.2026 erstellt. Vor dem nächsten Versuch reviewen: Sind die Trigger noch dieselben? Stimmen die Ersatzhandlungen?
 
 Für jeden Trigger: Was kann ich stattdessen tun?
 

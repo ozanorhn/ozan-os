@@ -1,0 +1,22 @@
+{
+  "user": {
+    "name": "Ozan",
+    "customContext": "Persönliches zweites Gehirn für Wissensmanagement und Lebensorganisation"
+  },
+  "organizationMethod": "PARA",
+  "primaryUses": ["zweites-gehirn", "projekte", "wissensmanagement"],
+  "language": "de",
+  "projects": ["Hochzeit", "Fett to Fit"],
+  "areas": ["Gesundheit", "Finanzen"],
+  "weeklyReview": {
+    "enabled": true,
+    "day": "Sonntag",
+    "command": "/weekly-synthesis"
+  },
+  "tools": {
+    "geminiVision": false,
+    "firecrawl": false
+  },
+  "importedAt": "2026-03-28",
+  "lastUpdated": "2026-03-28"
+}

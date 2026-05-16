@@ -1,10 +1,13 @@
 ---
 titel: Goggins Battle Plan – Rauchfrei
 datum: 2026-05-08
+aktualisiert: 2026-05-09
 tags: [rauchfrei, mindset, aar, visualization]
 quelle: "[[Ressource - Cant Hurt Me - David Goggins]]"
 verbunden: ["[[Trigger-Analyse]]", "[[Cookie Jar - Meine Siege]]"]
-status: vorbereitung
+status: aktiv
+modus: C
+startdatum: 2026-06-01
 ---
 
 # Goggins Battle Plan – Rauchfrei
@@ -18,31 +21,50 @@ Du hattest 27.04.2026 als Startdatum geplant – und nicht gestartet. Das ist **
 
 ## Teil 1: AAR – Warum 27.04. nicht geklappt hat
 
-> Goggins-Methode: brutale Ehrlichkeit, keine Ausreden, dann Lösung.
+> AAR durchgeführt 09.05.2026 mit /goggins. Brutale Ehrlichkeit. Keine Ausreden.
 
 ### Was war der Plan?
-*(Trage ein, was du dir konkret vorgenommen hattest)*
-- 
+
+Am Mo 27.04.2026 mit Pflaster Stufe 2 + Kaugummi + Smoke Free App + Trigger-Strategie aufhören. Im Vault dokumentiert seit ~13.04. (Jahresplan-Loop geschlossen).
 
 ### Was lief gut in der Vorbereitung?
-- Trigger-Analyse erstellt ✓ (siehe [[Trigger-Analyse]])
-- Ersatz-Handlungen definiert ✓
-- Datum war im Jahresplan ✓
+
+- Trigger-Analyse erstellt ✓ ([[Trigger-Analyse]])
+- Ersatz-Handlungen pro Trigger definiert ✓
+- Datum im Jahresplan + Cookie Jar dokumentiert ✓
+- → **Vault-Vorbereitung war komplett. Real-Life-Vorbereitung war null.**
 
 ### Was lief nicht gut?
-*(Hier ehrlich sein – was hat tatsächlich gefehlt?)*
 
-- [ ] War die mentale Vorbereitung intensiv genug?
-- [ ] Hattest du die Visualization (Schmerz-Szenarien) gemacht?
-- [ ] Externe Faktoren? (Stress, Hochzeit, Finanzen)
-- [ ] Innerlich noch nicht "all in"?
+**Wörtliche Antwort vom 09.05.2026:**
+> „Mir hat die Motivation dazu gefehlt, es einfach aufzuhören statt einfach den Drang dazu weiterzumachen. Ich habe mir weder Pflaster noch Kaugummi gekauft. Die App habe ich auch nicht gemacht. Es lief leider weiter wie sonst. Ich hab gar nicht daran gedacht, dass ich aufhören wollte. Ich hab mit niemandem geredet."
+
+Konkret:
+- [x] Pflaster nicht gekauft
+- [x] Kaugummi nicht gekauft
+- [x] Smoke Free App nicht installiert
+- [x] Verlobte nicht informiert
+- [x] Visualization nicht gemacht
+- [x] Am 27.04. nicht mal gedanklich präsent gehabt, dass aufhören geplant war
+- [x] Trigger-Tabelle nicht reviewt
 
 ### Was war mein Mindset?
-*(Goggins fragt: Glaubst du wirklich, dass es DEINS ist?)*
-- 
+
+**Wörtliche Antwort vom 09.05.2026 (auf die Frage warum keine Schritte):**
+> „(a) Ich wollte gar nicht wirklich aufhören – ich wollte nur den Gedanken haben, dass ich aufhöre."
+
+→ **Diagnose: Wollen-Problem, nicht Willenskraft-Problem.** Solange das Wollen nicht da ist, scheitert jeder Plan, egal wie gut er im Vault aussieht.
 
 ### Was muss konkret anders sein?
-- 
+
+Goggins-Reframe statt „mehr Motivation":
+- **Motivation streichen.** Sie kommt und sie geht. Wer auf sie wartet, hat schon verloren.
+- **Externe Anker statt innerer Wille.** Nicht „ich will" sondern „ich kann nicht mehr nachträglich kippen".
+- **Modus C gewählt:** Force the want through the action. Aufhören OHNE dass das Bauchgefühl zustimmt – aber NUR mit allen 4 Ankern stehend.
+
+### Lehre für 01.06.
+
+> Der Plan war im Vault perfekt. Im Leben null. Diesmal: Plan ist erst real wenn die ersten Anker außerhalb des Vaults stehen (Verlobte gesprochen, Pflaster im Schrank, App auf Handy).
 
 ---
 
@@ -96,33 +118,30 @@ Du hattest 27.04.2026 als Startdatum geplant – und nicht gestartet. Das ist **
 
 ---
 
-## Teil 3: Neues Startdatum festlegen
+## Teil 3: Neues Startdatum – LOCKED IN
 
-### Auswahl-Kriterien (Goggins-Style)
+> [!important] Tag 1: **Mo 01.06.2026**
+> **Modus:** C – Force the want through the action
+> **Begründung:** Fällt mit Zyklus-2-Start im Gym zusammen → Identitäts-Reset auf 2 Ebenen gleichzeitig. BU-Frist April 2027 noch im sauberen Puffer (10 Mo rauchfrei bis dahin).
 
-- [ ] **Kein "perfekter" Tag** – warte nicht auf den Stern-Stand
-- [ ] **Nicht zu weit weg** – sonst Komfort-Falle
-- [ ] **Nicht in akuter Stress-Phase** – aber auch nicht erst nach Hochzeit
-- [ ] **Mit Kalorien-Ziel verbinden:** rauchfrei = klarere Gewinne in [[Fett to Fit]]
-- [ ] **Verlobung 19.09.2026** als Anker-Motivation
+### Die 4 nicht-verhandelbaren Anker
 
-### Vorschlag
+Fehlt einer → C automatisch abgesagt.
 
-> [!important] Mein neues Startdatum
-> **Datum:** _______________
-> 
-> **Begründung:** _______________
-> 
-> **Mentale Vorbereitung beginnt:** 14 Tage vorher (täglich Visualization)
-> 
-> **Vor-Start Checkliste:**
-> - [ ] Kaugummis gekauft & strategisch platziert
-> - [ ] Smoke Free App eingerichtet
-> - [ ] Trigger-Tabelle aktualisiert
-> - [ ] Alle Zigaretten/Anzünder weggeworfen am Vorabend
-> - [ ] Frau informiert
-> - [ ] Cookie Jar gelesen
-> - [ ] Tag 1, 2, 3 mental durchgespielt
+| # | Anker | Frist |
+|---|-------|-------|
+| 1 | Verlobte informiert + ihre Rolle definiert | So 10.05. |
+| 2 | Pflaster Stufe 2 (14 mg) + Nicotinell Kaugummi gekauft | Mi 13.05. |
+| 3 | Smoke Free App installiert + 01.06. eingetragen | So 17.05. |
+| 4 | Geldbinde-Regel mit Verlobter besprochen (5 €/Zigarette in Hochzeitsfonds) | So 17.05. |
+
+### Vor-Start Checkliste (vorletzte Woche bis 31.05.)
+
+- [ ] Mo 18.05. – Visualization-Skript starten (5 Min/Abend)
+- [ ] So 24.05. – Trigger-Tabelle reviewen
+- [ ] Sa 30.05. – Cookie Jar lesen + neue Siege ergänzen
+- [ ] So 31.05. – **Letzter Rauchtag** (bewusst, nicht zufällig)
+- [ ] So 31.05. abends – alle Zigaretten/Anzünder weg, Pflaster bereit fürs Gesicht des Wecker
 
 ---
 

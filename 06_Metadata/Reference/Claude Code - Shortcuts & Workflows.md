@@ -1,8 +1,10 @@
 ---
 title: Claude Code – Shortcuts & Workflows
 created: 2026-04-19
+aktualisiert: 2026-04-26
 tags: [reference, claude-code, shortcuts]
 status: aktiv
+version: "0.15.1"
 ---
 
 # Claude Code – Shortcuts & Workflows
@@ -205,23 +207,37 @@ Output landet im Kontext, Claude kann darauf antworten.
 
 ## Nützliche Slash-Commands (deine eigenen)
 
-Aus deinem Vault (siehe `.claude/commands/` und `.claude/skills/`):
+Aus deinem Vault (`.claude/commands/` und `.claude/skills/`). Viele davon werden seit v0.15.1 auch **automatisch als Skills getriggert** – kein `/` nötig wenn Kontext eindeutig ist.
 
 ```
+# Täglicher Workflow
 /weekly-synthesis        # Sonntags-Review
 /daily-review            # Tagesrückblick
 /thinking-partner        # Denkpartner-Modus
 /inbox-processor         # Inbox leeren
+/google-tasks            # Tasks abrufen
+
+# Projekte & Metriken
 /gym-analyse             # Training auswerten
 /wochen-metriken         # KPIs aggregieren
 /finanz-review           # Monatliches Finanz-Review
 /hochzeit-update         # Hochzeits-Status
-/google-tasks            # Tasks abrufen
+
+# Wissen & Entscheidungen
 /entscheidungs-journal   # Entscheidung dokumentieren
-/projekt-abschluss       # Projekt archivieren
 /resource-creator        # Wissensnotiz in 03_Resources
+/add-frontmatter         # Frontmatter hinzufügen
+
+# Vault-Pflege
+/projekt-abschluss       # Projekt archivieren
 /pragmatic-review        # Code/Text kritisch prüfen
 /de-ai-ify               # AI-Sprache rauseditieren
+/download-attachment     # Datei herunterladen
+
+# System
+/upgrade                 # Claudesidian aktualisieren
+/pull-request            # GitHub PR erstellen
+/release                 # Version & Tag pushen
 ```
 
 ---

@@ -1,7 +1,6 @@
 ---
 name: systematic-debugging
 description: ALWAYS use before attempting any fix. Never jump to solutions - investigate root cause first. Use when encountering any technical issue, bug, test failure, or unexpected behavior.
-version: 2.0.0
 ---
 
 # Systematic Debugging

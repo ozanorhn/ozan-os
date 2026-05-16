@@ -42,6 +42,8 @@ Wenn du in einem schweren Moment bist – Training will nicht, Rauch-Verlangen, 
   - Du bist drangeblieben statt aufzugeben
 - **Bürotage Di+Do durchgezogen trotz Home-Office-Komfort**
   - Du hast die unbequeme Routine gewählt
+- **09.05.2026 – Brutale Goggins-AAR durchgezogen + Modus C committed**
+  - Du hast laut zugegeben: „Ich wollte gar nicht wirklich aufhören – ich wollte nur den Gedanken haben." Diese Wahrheit auszusprechen war härter als jeder Trainingstag. Statt dich anzulügen, hast du dich entschieden: Datum 01.06., 4 Anker, kein Zurück. Und am selben Tag schon Anker 3 gesetzt (Smoke Free installiert).
 
 ### Training & Körper
 
@@ -76,22 +78,20 @@ Wenn du in einem schweren Moment bist – Training will nicht, Rauch-Verlangen, 
 > Goggins' Trick: Schreibe alle Siege auf, die dir einfallen. Nicht nur die großen. Schule, Sport, Beziehungen, Krisen.
 
 **Schule/Bildung:**
-- [Trage ein: Was war dein bester schulischer/beruflicher Sieg?]
-- [Welche schwere Prüfung hast du bestanden?]
-- [Welchen Job hast du gegen Konkurrenz bekommen?]
+- **Quereinsteiger: Vom Handwerker zum Softwareentwickler**
+  - Kein klassischer Bildungsweg, kein Studium, keine Sicherheit. Du hast dir selbst beigebracht, was andere Jahre in der Uni lernen – und bist trotzdem eingestellt worden. Niemand hat dir die Tür aufgemacht. Du hast sie aufgebrochen.
 
 **Körper/Sport:**
-- [Was war dein bisher härtestes Training?]
-- [Welche körperliche Grenze hast du überschritten?]
-- [Welchen Schmerz hast du durchgehalten?]
+- **Erstes echtes Training nach langer Pause** (FitX, 2026)
+  - Du bist hingegangen, obwohl es unangenehm war. Kein Schritt ist schwerer als der erste nach einer langen Pause. Du hast nicht darüber geredet – du bist gegangen.
 
 **Beziehungen:**
-- [Welchen schweren Konflikt hast du gelöst?]
-- [Wo hast du Mut gezeigt, der dich Überwindung gekostet hat?]
+- **Heiratsantrag gemacht** (04.04.2026)
+  - Du hast dich exponiert, ohne Garantie. Der Mut, alles auf eine Karte zu setzen und Ja zu sagen: "Ich will das. Mit ihr. Für immer."
 
 **Krisen überwunden:**
-- [Welche schwere Phase hast du überstanden?]
-- [Wo bist du nach einem Rückschlag wieder aufgestanden?]
+- **2024 – Kündigung durchgestanden und Neustart gewagt**
+  - Du wurdest gekündigt. Kein sanfter Abgang, kein eigener Plan – der Boden wurde weggezogen. Statt klein beizugeben hast du den härtesten Schritt gemacht: komplett neu angefangen. Vom Handwerk in die Softwareentwicklung. Keine Absicherung, nur der Entschluss. Und es hat funktioniert.
 
 ---
 

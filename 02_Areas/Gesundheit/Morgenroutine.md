@@ -1,85 +1,172 @@
 ---
 title: Morgenroutine
 erstellt: 2026-04-11
-tags: [gesundheit, routine, gewohnheiten, rauchfrei]
+aktualisiert: 2026-05-09
+tags: [gesundheit, routine, gewohnheiten, frühaufsteher, victory-hour, sharma, goggins, atomic-habits]
 status: aktiv
 ---
 
 # Morgenroutine
 
-Selbst entwickelt am 11. April 2026.
-
-> [!tip] Kernprinzip
-> Kein Platz lassen. Jeder Slot ist besetzt – dann braucht es keine Willenskraft.
+> [!quote] Kernprinzip (Sharma)
+> Wer die erste Stunde des Tages besitzt, besitzt den Tag.
 
 ---
 
-## Weckzeit
+## Aktueller Stand – Frühaufsteher-Transition
 
-| Tag | Ziel |
-|-----|------|
-| Wochentags (Büro) | 6:00 Uhr |
-| Wochentags (Home Office) | 6:30–7:00 Uhr |
-| Wochenende | 7:00–7:30 Uhr |
+Das Ziel ist die **Victory Hour (5:00–6:00 Uhr)** – aber in 10 Wochen schrittweise. Keine Cliff, kein Absturz.
 
-**Wecker ans andere Ende des Zimmers** – aufstehen um ihn auszumachen. Kein Snoopen.
+| Phase | Zeitraum | Aufwachen | Fokus |
+|-------|----------|-----------|-------|
+| **← Jetzt: W1–2** | 10.05 – 23.05 | **7:30** | Wecker klingelt → sofort aufstehen, kein Snooze |
+| W3–4 | 24.05 – 06.06 | 6:30 | Handy raus aus Schlafzimmer · Wasser + frische Luft |
+| W5–6 | 07.06 – 20.06 | 6:00 | 20 Min. Bewegung direkt nach dem Aufstehen |
+| W7–8 | 21.06 – 04.07 | 5:30 | MOVE + REFLECT (40 Min.) |
+| W9–10 | 05.07 – 18.07 | **5:00** | Victory Hour komplett (60 Min.) |
 
-> [!warning] Kein Snoopen
-> Mehrere Wecker und erneutes Einschlafen stören den Schlafrhythmus und machen müder. Wenn du bis zu 20 Min. vor dem Wecker aufwachst – direkt aufstehen.
-
----
-
-## Die Routine
-
-| Schritt | Was | Warum |
-|---------|-----|-------|
-| 1 | Aufstehen → Gesicht waschen | Körper wach machen |
-| 2 | **5–10 Min. Sonnenlicht** | Dopamin, Cortisol, Epinephrin – Energie für den Tag. Rausgehen oder ans Fenster. |
-| 3 | Kaffee starten | — |
-| 4 | **Podcast oder News sofort an** | Kein leerer Moment, kein Autopilot |
-| 5 | **Dehnen + Liegestütze** *(während Kaffee läuft)* | Körper aktivieren, Hände beschäftigt |
-| 6 | Kaffee trinken + **Supplements** | [[01_Projects/Fett to Fit/Ernährung/Supplements & Routine\|Supplements & Routine]] direkt dazu |
-| 7 | Zähne putzen | |
-| 8 | **10–15 Min. lesen** | Persönliche Weiterentwicklung |
-| 9 | **Tagesplanung mit Claude** – 3 Prioritäten, 5 Min. | Plan für den Tag, kein blinder Start |
-| 10 | Arbeit starten | Fokussiert, mit klarem Ziel |
+Details: [[Frühaufsteher-Plan]]
 
 ---
 
-## Die 6 Gewohnheiten
+## Das Wecker-Protokoll (Goggins)
 
-Wähle täglich **4–5 davon** – nicht alle, nicht keine. An schlechten Tagen reicht eine – aber am nächsten Tag trotzdem nur 4–5, nicht aufholen.
+> **Kein Snooze. Niemals.**
 
-- [ ] Kein Snoopen – direkt aufstehen
-- [ ] Sonnenlicht (5–10 Min.)
-- [ ] Bewegt (Dehnen oder Liegestütze)
-- [ ] Morgen-Supplements nicht vergessen
-- [ ] Kein Social Media – Podcast statt Handy-Scrollen
-- [ ] Gelesen (morgens oder abends)
+1. Wecker klingelt → **sofort aufsetzen** – nicht nachdenken
+2. Füße auf den Boden (Goggins: das ist dein erster Sieg des Tages)
+3. Licht an oder Jalousie auf
+4. Kalt Wasser ins Gesicht
+
+Klassischer Wecker im anderen Zimmer – kein Handy als Wecker. Du musst aufstehen um ihn auszumachen.
+
+> [!tip] Clear – 2-Minuten-Regel
+> Der einzige Job beim Klingeln: **Aufsetzen und Füße auf den Boden.** Nicht „Victory Hour durchziehen" – nur aufstehen. Der Rest passiert von selbst.
 
 ---
 
-## Warum dieser Aufbau
+## Die Routine – nach Trainingstag
 
-Der Kaffee-Moment war bisher der Trigger für die Zigarette – nicht weil Zwang, sondern weil **kein Plan**. Wenn der Slot direkt besetzt ist (Podcast an, Körper bewegt, Sonnenlicht geholt), entsteht gar kein Moment wo die alte Gewohnheit greifen kann.
+### Mo / Mi / Fr – Gym-Tag
 
-> [!quote] Erkenntnis aus dem Gespräch
-> "Ich habe meinen idealen Morgen beschrieben – und die Zigarette kam nicht vor."
+| Schritt | Was |
+|---------|-----|
+| 1 | Aufstehen → Gesicht waschen → Wasser |
+| 2 | **Trainingsklamotten an** (abends rausgelegt) |
+| 3 | **5 Min. Sonnenlicht** – Dopamin, Cortisol-Signal |
+| 4 | Supplements + Frühstück *(leicht vor dem Gym)* |
+| 5 | **Gym** – LIMIT-Satz + Gewichte eintragen + AAR |
+| 6 | Dusche |
+| 7 | **REFLECT** – Journal: 3 Dankbarkeiten + 5 Mikrosiege für heute |
+| 8 | Tag starten |
+
+### Di / Do – Lauftag (morgens)
+
+| Schritt | Was |
+|---------|-----|
+| 1 | Aufstehen → Laufklamotten an (abends rausgelegt) |
+| 2 | **Laufen** – 20–35 Min. Zone 2 + Goggins-Extra |
+| 3 | Dusche |
+| 4 | **REFLECT** – Journal + AAR (2 Min.) |
+| 5 | Kaffee + Supplements |
+| 6 | **GROW** – Podcast oder Buch (10–15 Min.) |
+| 7 | Tag starten |
+
+### Sa / So – kein Training
+
+| Schritt | Was |
+|---------|-----|
+| 1 | Aufstehen → Gesicht waschen → Wasser |
+| 2 | **Sonnenlicht** (5–10 Min.) |
+| 3 | Kaffee + Supplements |
+| 4 | **Podcast oder Lesen** – kein Handy-Scrollen |
+| 5 | Dehnen / Spaziergang (optional) |
+| 6 | Tag starten |
+
+---
+
+## Das REFLECT-Journal (täglich, 5 Min.)
+
+```
+Datum:
+Aufgestanden um: __:__
+
+3 Dinge, für die ich dankbar bin:
+1.
+2.
+3.
+
+5 Mikrosiege für heute (was zählt als Sieg?):
+1.
+2.
+3.
+4.
+5.
+
+Intention für den Tag:
+```
+
+> [!tip]
+> 5 Mikrosiege × 365 Tage = 1.825 kleine Erfolge pro Jahr – das kompensiert den Negativitätsbias.
+
+---
+
+## Das Ziel – Victory Hour (ab 05.07.2026)
+
+**5:00–6:00 Uhr täglich:**
+
+| Pocket | Zeit | Inhalt |
+|--------|------|--------|
+| **MOVE** | 5:00–5:20 | Laufen / Gym / HIIT – Schwitzen |
+| **REFLECT** | 5:20–5:40 | Journal · Dankbarkeit · Tagesplanung |
+| **GROW** | 5:40–6:00 | Buch · Podcast · Notizen |
+
+Die Reihenfolge ist nicht verhandelbar – erst MOVE schafft die neurochemische Grundlage (BDNF) für REFLECT und GROW.
+
+---
+
+## Die 6 Tages-Gewohnheiten (Clear – Chain Tracker)
+
+Nach jedem erfolgreichen Morgen: **X im Kalender.** Niemals zweimal aussetzen.
+
+- [ ] Kein Snooze – sofort aufgestanden
+- [ ] Sonnenlicht (5 Min.)
+- [ ] Bewegt (Gym / Laufen / Dehnen)
+- [ ] REFLECT-Journal geschrieben
+- [ ] Kein Social Media – Podcast statt Scrollen
+- [ ] Supplements nicht vergessen
+
+---
+
+## Abendseite (Sharma – Pre-Sleep Ritual)
+
+Der Morgen wird abends gewonnen.
+
+| Zeit | Was |
+|------|-----|
+| ~21:00 | Klamotten für morgen rauslegen · Gymtasche prüfen |
+| ~21:30 | Bildschirme aus (Handy raus aus Schlafzimmer) |
+| ~22:00 | Lesen, Journal, Stretching |
+| ~22:30 | Licht aus |
+
+Details: [[Abendroutine]]
 
 ---
 
 ## Lesen – aktuelle Bücher
 
-Reihenfolge + Tages-Pensum (10 Seiten/Tag) siehe [[Leseplan]].
-
-- [[03_Resources/Bücher/Siddhartha - Hermann Hesse|Siddhartha]] ← aktuell
-- [[03_Resources/Bücher/Der Weg des wahren Mannes - David Deida|Weg des wahren Mannes]] (gelesen)
-- [[03_Resources/Bücher/Der Alchimist - Paulo Coelho|Der Alchimist]] (gelesen)
+- Siddhartha – Hermann Hesse ← aktuell
+- [[Ressource - Cant Hurt Me - David Goggins]] (gelesen)
+- [[Ressource - The 5 AM Club - Robin Sharma]] (gelesen)
+- [[Ressource - Die 1%-Methode - James Clear]] (gelesen)
 
 ---
 
 ## Verbundene Notizen
 
-- [[02_Areas/Gesundheit/Abendroutine|Abendroutine]]
+- [[Frühaufsteher-Plan]] – 10-Wochen-Transition zur Victory Hour
+- [[Laufplan-Methoden-Plan]] – Morgenläufe Di/Do
+- [[Gym-Methoden-Plan]] – System für Mo/Mi/Fr
+- [[Abendroutine]] – Pre-Sleep Ritual
 - [[01_Projects/Fett to Fit/Ernährung/Supplements & Routine|Supplements & Routine]]
-- [[01_Projects/Rauchfrei/Trigger-Analyse|Trigger-Analyse]]
+- [[Cookie Jar - Meine Siege]] – Siege für schwere Morgen
