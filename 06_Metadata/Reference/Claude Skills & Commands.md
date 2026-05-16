@@ -2,9 +2,9 @@
 title: Claude Skills & Commands
 typ: referenz
 erstellt: 2026-04-10
-aktualisiert: 2026-04-26
+aktualisiert: 2026-05-16
 tags: [claude, skills, commands, referenz]
-version: "0.15.1"
+version: "0.16.0"
 ---
 
 # Claude Skills & Commands
@@ -16,6 +16,14 @@ version: "0.15.1"
 ## Commands (Slash-Commands)
 
 Aufruf: `/command-name` in Claude Code
+
+### Täglicher Loop (Karpathy-Pattern)
+
+| Command | Aufruf | Beschreibung |
+|---|---|---|
+| Briefing | `/briefing` | Morgen-Kontext: log + Tasks + Projekte (nur lesen, kein Schreiben) |
+| Debrief | `/debrief` | Abend: 3–4 Fragen → log.md + Daily Note. Kumuliert Wissen. |
+| Ingest | `/ingest [URL/Thema]` | Quelle ins Wiki integrieren → Resource-Seite + index.md + log.md |
 
 ### Persönlicher Workflow
 
@@ -113,7 +121,12 @@ Skills werden von Claude automatisch aktiviert, wenn der Kontext passt – kein 
 ## Schnellreferenz
 
 ```
-# Tägliche Nutzung
+# Täglicher Loop (Karpathy)
+/briefing              Morgenkontext (liest log + Tasks)
+/debrief               Abendsynthese → log.md
+/ingest [URL/Thema]    Quelle ins Wiki → index.md + log.md
+
+# Klassische tägliche Nutzung
 /daily-review          Tagesrückblick
 /google-tasks          Aufgaben checken
 
