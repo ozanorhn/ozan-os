@@ -1,5 +1,6 @@
 ---
 title: Morgenroutine
+type: referenz
 erstellt: 2026-04-11
 aktualisiert: 2026-05-09
 tags: [gesundheit, routine, gewohnheiten, frühaufsteher, victory-hour, sharma, goggins, atomic-habits]

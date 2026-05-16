@@ -2,7 +2,7 @@
 title: Rauchfrei
 type: moc
 datum: 2026-03-30
-aktualisiert: 2026-05-09
+aktualisiert: 2026-05-16
 tags: [projekt, gesundheit, rauchfrei, goggins-c]
 status: aktiv
 startdatum: 2026-06-01
@@ -24,6 +24,7 @@ ziel: Dauerhaft rauchfrei leben
 - **AAR durchgeführt:** 09.05.2026 ([[Goggins Battle Plan]] Teil 1)
 - **Tag 1:** **Mo 01.06.2026** (Start Zyklus 2 Gym = doppelter Reset)
 - **Vorbereitung beginnt:** Mo 18.05.2026 (14 Tage vorher)
+- **Google Tasks geleert:** 16.05.2026 – Tasks wurden im System-Reset entfernt, neu eintragen bei Bedarf
 
 ---
 

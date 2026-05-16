@@ -1,9 +1,10 @@
 ---
 title: ETF-Strategie – 2-ETF-Lösung 80/20
+type: referenz
 typ: finanzen
+status: umgesetzt
 erstellt: 2026-04-08
 aktualisiert: 2026-04-08
-status: umgesetzt
 tags: [finanzen, etf, strategie, investieren]
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Vermögensübersicht
+type: referenz
 typ: finanzen
+status: aktiv
 erstellt: 2026-04-08
 aktualisiert: 2026-05-08
 tags: [finanzen, übersicht, vermögen]

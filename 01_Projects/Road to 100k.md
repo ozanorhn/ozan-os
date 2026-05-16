@@ -1,5 +1,6 @@
 ---
 title: Road to 100k
+type: projekt
 typ: projekt
 status: aktiv
 erstellt: 2026-04-15

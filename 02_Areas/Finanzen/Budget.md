@@ -1,6 +1,8 @@
 ---
 title: Budget & Fixkosten
+type: referenz
 typ: finanzen
+status: aktiv
 erstellt: 2026-03-29
 aktualisiert: 2026-04-09
 tags: [finanzen, budget, fixkosten]

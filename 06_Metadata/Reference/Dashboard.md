@@ -5,6 +5,11 @@ tags: [dashboard]
 
 # Dashboard
 
+## System-Reset 16.05.2026
+
+> [!note] Clean Slate – 16.05.2026
+> Google Tasks + Kalender geleert. CLAUDE.md erstellt. Fresh Start.
+
 ## Inbox
 ```dataview
 LIST
