@@ -61,7 +61,7 @@ Türkische Hochzeit – mit allen Traditionen:
 - [x] Nişan-Location ✓ (wird von Frau-Seite organisiert)
 - [x] Hochzeitssaal ✓ gebucht
 - [x] Takı & Altın ✓ vorbereitet
-- [ ] **Juwelier-Termin für Nişan Yüzükleri** vereinbaren (Do 30.04.2026)
+- [x] **Nişan Yüzükleri** – Kauf am 30.05.2026 (Geburtstag Ozan) ✓ geplant
 - [ ] Gelin Bohçası: 1 Kategorie pro Woche ab KW 17 → komplett in 8 Wochen (siehe [[Gelin Bohçası Checkliste]])
 - [x] Fotograf für Nişan – kein Fotograf gewünscht (Entscheidung Apr 2026)
 - [ ] Einladungen versenden – **bis Ende Juni 2026**

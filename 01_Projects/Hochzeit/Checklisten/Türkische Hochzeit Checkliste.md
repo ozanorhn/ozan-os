@@ -61,7 +61,7 @@ Söz Kesme → Nişan (Verlobungsfeier) → Kına Gecesi → Nikah → Düğün
 ## 2. Nişan Töreni (Verlobungsfeier) – 19.09.2026
 
 ### Kaufen / Beschaffen
-- [ ] Verlobungsringe (Nişan Yüzükleri) – **beide Ringe!** (geplant: 30.05., Geburtstag Ozan)
+- [x] Verlobungsringe (Nişan Yüzükleri) – **beide Ringe!** – Kauf am 30.05.2026 bestätigt
 - [ ] Nişan-Geschenke – Nilüfer bestellt (bis Anfang Mai)
 - [ ] Takım Elbise für Nişan – Nilüfer kauft (Deadline: Anfang September)
 - [ ] Roter Satinband (rotes Band für Ringzeremonie)
