@@ -50,6 +50,7 @@ Das sind ~**24 Wochen** ab 30.03.2026.
 ## Training
 
 - **Plan:** Upper-Fokus mit Bein-Erhalt (3× Upper + Beine integriert) bei FitX
+- **Rhythmus:** Di/Do/So Gym, Mo/Mi/Fr Laufen (Homeoffice-Anpassung)
 - **Reset-Datum:** 2026-05-17 (PPL nach W7 abgebrochen – Legs-Skip-Problem)
 - **Block 1:** 18.05.–12.07.2026 (8 Wochen)
 - **Block 2:** 10.08.–20.09.2026 (6 Wochen, endet 1 Tag vor Verlobung)

@@ -57,13 +57,13 @@ anker: Verlobungsfeier 2026-09-19
 
 ```
 JEDE Woche (kein A/B-Wechsel):
-  Mo  → Upper A + Hackenschmidt         (~70 Min)
-  Di  → Joggen Zone 2                   (25–35 Min)
-  Mi  → Upper B + Beinbeuger+Beinstrecker (~75 Min)
-  Do  → Joggen Zone 2                   (25–35 Min)
-  Fr  → Upper C + Beinpresse + Waden    (~75 Min)
-  Sa  → Joggen optional                 (30–40 Min)
-  So  → Ruhe
+  Mo  → Joggen Zone 2                   (25–35 Min) [Homeoffice]
+  Di  → Upper A + Hackenschmidt         (~70 Min)
+  Mi  → Joggen Zone 2                   (25–35 Min) [Homeoffice]
+  Do  → Upper B + Beinbeuger+Beinstrecker (~75 Min)
+  Fr  → Joggen Zone 2                   (25–35 Min) [Homeoffice]
+  Sa  → Ruhe oder optional
+  So  → Upper C + Beinpresse + Waden    (~75 Min)
 ```
 
 **Frequenz pro Muskelgruppe:**
@@ -152,12 +152,13 @@ JEDE Woche (kein A/B-Wechsel):
 
 | Tag | Workout | Dauer | Intensität |
 |---|---|---|---|
-| Di | Zone 2 lockerer Lauf | 25–35 Min | Sätze sprechen möglich |
-| Do | Zone 2 lockerer Lauf | 25–35 Min | Zone 2 |
-| Sa | Zone 2 oder Pause | 30–40 Min | Optional |
+| Mo | Zone 2 lockerer Lauf | 25–35 Min | Sätze sprechen möglich |
+| Mi | Zone 2 lockerer Lauf | 25–35 Min | Zone 2 |
+| Fr | Zone 2 lockerer Lauf | 25–35 Min | Zone 2 |
+| Sa | Ruhe oder optional | – | – |
 
 - Anschluss an bestehenden [[Laufplan-Methoden-Plan]]
-- Di-Lauf bewusst locker (nach Mo Hackenschmidt)
+- Mo/Mi/Fr = Homeoffice-Tage → Laufen passt besser
 - Cardio nicht für Bein-Hypertrophie, sondern für Ausdauer + Fettverbrennung
 
 ---
