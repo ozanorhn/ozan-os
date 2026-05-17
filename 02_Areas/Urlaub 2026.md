@@ -26,20 +26,20 @@ status: aktiv
 
 ## Alle Einträge
 
-| Datum | Art | Tage | Status |
-|-------|-----|-----:|--------|
-| 20. Feb. 2026 | Resturlaub | 1,0 | ✅ |
-| 6. März 2026 | Resturlaub | 1,0 | ✅ |
-| 13. März 2026 | Resturlaub | 1,0 | ✅ |
-| 20. März 2026 | Resturlaub | 1,0 | ✅ |
-| 7.–10. Apr. 2026 | Regulärer Urlaub | 4,0 | ✅ |
-| 5. Juni 2026 | Regulärer Urlaub | 1,0 | 🔜 |
-| 13. Juli – 7. Aug. 2026 | Regulärer Urlaub | 20,0 | 🔜 |
-| 24. Dez. 2026 | Regulärer Urlaub | 0,5 | 🔜 |
-| 24. Dez. 2026 | Sonderurlaub | 0,5 | 🔜 |
-| 28.–30. Dez. 2026 | Regulärer Urlaub | 3,0 | 🔜 |
-| 31. Dez. 2026 | Regulärer Urlaub | 0,5 | 🔜 |
-| 31. Dez. 2026 | Sonderurlaub | 0,5 | 🔜 |
+| Datum                   | Art              | Tage | Status |
+| ----------------------- | ---------------- | ---: | ------ |
+| 20. Feb. 2026           | Resturlaub       |  1,0 | ✅      |
+| 6. März 2026            | Resturlaub       |  1,0 | ✅      |
+| 13. März 2026           | Resturlaub       |  1,0 | ✅      |
+| 20. März 2026           | Resturlaub       |  1,0 | ✅      |
+| 7.–10. Apr. 2026        | Regulärer Urlaub |  4,0 | ✅      |
+| 5. Juni 2026            | Regulärer Urlaub |  1,0 | 🔜     |
+| 13. Juli – 7. Aug. 2026 | Regulärer Urlaub | 20,0 | 🔜     |
+| 24. Dez. 2026           | Regulärer Urlaub |  0,5 | 🔜     |
+| 24. Dez. 2026           | Sonderurlaub     |  0,5 | 🔜     |
+| 28.–30. Dez. 2026       | Regulärer Urlaub |  3,0 | 🔜     |
+| 31. Dez. 2026           | Regulärer Urlaub |  0,5 | 🔜     |
+| 31. Dez. 2026           | Sonderurlaub     |  0,5 | 🔜     |
 
 ## Nächste Auszeiten
 
