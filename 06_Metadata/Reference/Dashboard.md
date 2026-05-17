@@ -14,7 +14,6 @@ tags: [dashboard]
 ```dataview
 LIST
 FROM "00_Inbox"
-WHERE file.name != "Dashboard" AND file.name != "Inbox" AND file.name != "Welcome" AND file.name != "BEISPIEL - Gedanken erfassen"
 SORT file.mtime DESC
 ```
 
