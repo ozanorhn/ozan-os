@@ -2,7 +2,7 @@
 title: Fett to Fit – Synthese
 type: synthese
 erstellt: 2026-04-10
-aktualisiert: 2026-05-09
+aktualisiert: 2026-05-17
 tags: [projekt, fitness, synthese, analyse]
 status: aktiv
 ---
@@ -10,7 +10,10 @@ status: aktiv
 # Fett to Fit – Synthese
 
 > [!abstract] Überblick
-> 8-Wochen-Projekt zur Körpertransformation. Start: 30.03.2026. Aktueller Stand: **Beginn W7** nach Re-Start. Verlobungsfeier 19.09.2026 (~19 Wochen) als Anker.
+> Projekt-Reset am **17.05.2026**: PPL-Plan nach W7 abgebrochen (Legs-Skip-Problem). Neuer Plan **Upper-Fokus mit Bein-Erhalt** startet Mo 18.05.2026. Verlobungsfeier 19.09.2026 als Anker bleibt – Block 2 endet 1 Tag davor.
+>
+> Aktiver Plan: [[2026-05-17-upper-fokus-trainingsplan-design]]
+> Archivierter PPL Block 1: [[04_Archive/Fett to Fit – PPL Block 1/Training/PPL Trainingsplan|PPL Trainingsplan (Archiv)]]
 
 ---
 
@@ -24,10 +27,12 @@ status: aktiv
 | 17 | 20.04.–26.04. | ⚠️ W4 | Tracking gebrochen, Cardio gestartet (1 Lauf) |
 | 18 | 27.04.–03.05. | ⚠️ W5 | Push 24.04. + Pull 26.04., kein Legs, kein Cardio |
 | 19 | 04.05.–10.05. | ⚠️ W6 + Re-Start | Push 27.04. dokumentiert, Pull/Legs ohne Wdh. – W7 ausgefallen |
-| 20 | **11.05.–17.05.** | 🎯 **W7 echter Re-Start** | Heute: erste Einheit Mo |
-| 21 | 18.05.–24.05. | 📅 W8 | Letzte Zyklus-1-Woche |
-| 22 | 25.05.–31.05. | 📅 Deload | 60% Gewicht, keine LIMIT-Sätze |
-| 23 | 01.06.– | 📅 Zyklus 2 Start | Neue Baseline = LIMIT-Gewichte aus W8 |
+| 20 | 11.05.–17.05. | ⚠️ W7 begonnen, dann **Plan-Reset 17.05.** | PPL nach 3 Sessions abgebrochen |
+| 21 | **18.05.–24.05.** | 🎯 **Upper-Fokus W1** | NEUER Plan startet (Mo Upper A) |
+| 22–28 | 25.05.–12.07. | 📅 Block 1 W2–W8 | Upper-Fokus, 8 Wochen |
+| 29 | 13.07.–19.07. | 📅 Deload | im Urlaub, Hotel-Gym/Bodyweight |
+| 30–32 | 20.07.–07.08. | 🏖️ Urlaub | Erhaltung, optional |
+| 33–38 | 10.08.–20.09. | 📅 Block 2 (6 Wochen) | endet Fr 18.09., Verlobung Sa 19.09. |
 
 ---
 
@@ -66,10 +71,12 @@ status: aktiv
 - Ausgangspunkt: 94 kg / 177 cm (30.03.) → 91 kg (10.04.)
 - Ernährungsziel: −500 kcal/Tag → ~0,5 kg Fettabbau/Woche
 
-### 2. Trainingsansatz – PPL bei FitX
-- 3 Einheiten/Woche: **Mo (Push) / Mi (Pull) / Fr (Legs)**
-- Plan: 8 Wochen Zyklus 1, Deload, Zyklus 2 (8 Wochen)
-- Progressive Overload + LIMIT-Satz (Goggins 40%-Regel im Mikro)
+### 2. Trainingsansatz – Upper-Fokus bei FitX (ab 18.05.2026)
+- 3 Einheiten/Woche: **Mo Upper A / Mi Upper B / Fr Upper C** – jede Session mit 1–2 Bein-Übungen
+- Jede Muskelgruppe Upper trifft 2–3×/Woche (Hypertrophie-Optimum)
+- Beine nur Maschinen (Hackenschmidt / Beinbeuger+Beinstrecker / Beinpresse+Waden)
+- Plan: Block 1 (8 Wochen) → Deload (im Urlaub) → Block 2 (6 Wochen, endet vor Verlobung)
+- Progressive Overload + LIMIT-Satz, Tracking radikal vereinfacht (nur LIMIT-Satz)
 
 ### 3. Cardio – nach Re-Start
 - **Di + Do morgens** Zone 2, Sa optional (siehe [[Laufplan-Methoden-Plan]])
@@ -132,9 +139,10 @@ Pull / Legs: keine Wdh.-Daten aus W6 – W7 setzt neue Baseline.
 ## Verbindungen
 
 - [[Fett to Fit]] – Projekt-Hub
-- [[PPL Trainingsplan]] – Übungen & Progression
+- [[2026-05-17-upper-fokus-trainingsplan-design]] – **Aktiver Plan**
 - [[Gym-Methoden-Plan]] – System-Overlay (Goggins/Sharma/Clear)
-- [[Laufplan-Methoden-Plan]] – Cardio Re-Start
+- [[Laufplan-Methoden-Plan]] – Cardio
 - [[Diätplan]] – Ernährung
 - [[Supplements & Routine]] – Stack
-- [[2026-05-08 - Wochenanalyse W4-W6 + W7 Restart]] – Letzte Analyse
+- [[04_Archive/Fett to Fit – PPL Block 1/Training/PPL Trainingsplan|PPL Trainingsplan]] – Archiv (alter Plan)
+- [[04_Archive/Fett to Fit – PPL Block 1/Tracking/Wochenanalysen/2026-05-08 - Wochenanalyse W4-W6 + W7 Restart|Wochenanalyse W4-W6]] – Archiv
