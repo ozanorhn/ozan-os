@@ -2,3 +2,4 @@ anyio==4.13.0
 certifi==2026.4.22
 httpx==0.28.1
 python-telegram-bot==22.7
+telegramify-markdown==0.5.1

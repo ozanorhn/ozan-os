@@ -1,7 +1,10 @@
 import subprocess
 import json
 import os
+import telegramify_markdown
 from telegram import Update
+from telegram.constants import ParseMode
+from telegram.error import BadRequest
 from telegram.ext import (
     Application, CommandHandler, MessageHandler,
     ContextTypes, filters
@@ -91,8 +94,13 @@ async def chat(update, context):
         if session_id:
             sessions[chat_id] = session_id
 
-        for i in range(0, len(reply), 4000):
-            await update.message.reply_text(reply[i:i+4000])
+        formatted = telegramify_markdown.markdownify(reply)
+        for i in range(0, len(formatted), 4000):
+            chunk = formatted[i:i+4000]
+            try:
+                await update.message.reply_text(chunk, parse_mode=ParseMode.MARKDOWN_V2)
+            except BadRequest:
+                await update.message.reply_text(reply[i:i+4000])
 
     except subprocess.TimeoutExpired:
         await update.message.reply_text("Timeout - Claude hat zu lange gebraucht.")
