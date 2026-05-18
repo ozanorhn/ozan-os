@@ -39,6 +39,6 @@ Themen-Strukturen (alle Bücher in „Bücher", alle Trainings-Infos in „Train
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Building a Second Brain - Tiago Forte]]
+- Hauptnotiz: [[Building a Second Brain - Tiago Forte]]
 - Übergreifend: [[CODE-Methode - Capture Organize Distill Express]]
 - Vault-Struktur direkt umgesetzt in CLAUDE.md (00_Inbox → 04_Archive)

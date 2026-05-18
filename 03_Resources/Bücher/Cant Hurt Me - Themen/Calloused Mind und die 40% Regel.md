@@ -44,6 +44,6 @@ Goggins selbst hat sich gesundheitlich zerschossen. Calloused Mind **ohne Erholu
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Cant Hurt Me - David Goggins]]
+- Hauptnotiz: [[Cant Hurt Me - David Goggins]]
 - Komplement: [[Twin Cycles - Spannung und Erholung]] – Härte braucht Heilung
 - Deida-Brücke: [[Herausforderung statt Komfort]]

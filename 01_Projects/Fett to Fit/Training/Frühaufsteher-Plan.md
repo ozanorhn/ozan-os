@@ -289,6 +289,6 @@ Nicht nur „Wann bin ich aufgestanden?" messen:
 - [[Laufplan-Methoden-Plan]] – MOVE-Pocket = Morgenläufe Di/Do
 - [[Gym-Methoden-Plan]] – Pre-Gym Ritual nutzt dasselbe System
 - [[Cookie Jar - Meine Siege]] – Siegarchiv für schwere Morgen
-- [[Ressource - The 5 AM Club - Robin Sharma]] – Victory Hour, Pre-Sleep, 20/20/20
-- [[Ressource - Cant Hurt Me - David Goggins]] – Wecker = erster Sieg, 40%-Regel
-- [[Ressource - Die 1%-Methode - James Clear]] – Graduelle Transition, niemals zweimal, Ketten-Tracker
+- [[The 5 AM Club - Robin Sharma]] – Victory Hour, Pre-Sleep, 20/20/20
+- [[Cant Hurt Me - David Goggins]] – Wecker = erster Sieg, 40%-Regel
+- [[Die 1%-Methode - James Clear]] – Graduelle Transition, niemals zweimal, Ketten-Tracker

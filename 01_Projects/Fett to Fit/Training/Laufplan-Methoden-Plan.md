@@ -205,6 +205,6 @@ Clear: *„Sobald du weißt, wer du bist (Läufer), legst du die nächste Etappe
 
 - [[Laufplan-8-Wochen]] – alter Grundplan mit ersten Laufdaten
 - [[Cookie Jar - Meine Siege]] – Siegarchiv für schwere Momente
-- [[Ressource - Cant Hurt Me - David Goggins]] – 40%-Regel, AAR, Calloused Mind
-- [[Ressource - The 5 AM Club - Robin Sharma]] – Victory Hour, Pre-Sleep Ritual
-- [[Ressource - Die 1%-Methode - James Clear]] – Identität, Ketten-Tracker, 2-Min-Regel
+- [[Cant Hurt Me - David Goggins]] – 40%-Regel, AAR, Calloused Mind
+- [[The 5 AM Club - Robin Sharma]] – Victory Hour, Pre-Sleep Ritual
+- [[Die 1%-Methode - James Clear]] – Identität, Ketten-Tracker, 2-Min-Regel

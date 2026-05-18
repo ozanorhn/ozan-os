@@ -61,7 +61,7 @@ Das ist der härteste Hebel im Projekt:
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Die 1%-Methode - James Clear]]
+- Hauptnotiz: [[Die 1%-Methode - James Clear]]
 - Übergreifend: [[Die 4 Gesetze der Verhaltensänderung]]
 - Sharma-Brücke: [[Pre-Sleep Ritual und Schlafqualität]] – Umfeld vor Willenskraft
 - Skill: `/clear`

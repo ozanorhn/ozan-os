@@ -42,6 +42,6 @@ Nicht jede Notiz braucht alle 4 Schichten. Eine Notiz schreitet weiter, **wenn s
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Building a Second Brain - Tiago Forte]]
+- Hauptnotiz: [[Building a Second Brain - Tiago Forte]]
 - Übergreifend: [[CODE-Methode - Capture Organize Distill Express]]
 - Diese atomaren Themen-Notizen sind selbst Schicht-4-Output der Buchnotiz

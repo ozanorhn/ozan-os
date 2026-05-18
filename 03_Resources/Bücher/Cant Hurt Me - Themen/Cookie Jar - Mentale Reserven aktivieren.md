@@ -38,6 +38,6 @@ Geboren während des **San Diego One Day Race** – 101 Meilen ohne Training. Al
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Cant Hurt Me - David Goggins]]
+- Hauptnotiz: [[Cant Hurt Me - David Goggins]]
 - Vault-Datei: [[Cookie Jar - Meine Siege]]
 - Sharma-Brücke: [[Daily 5 Mikrosiege]] – Siege werden für die Cookie Jar erst erzeugt

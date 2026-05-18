@@ -55,7 +55,7 @@ Die wirklich Erfolgreichen verlieren auch die Motivation – aber sie machen tro
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Die 1%-Methode - James Clear]]
+- Hauptnotiz: [[Die 1%-Methode - James Clear]]
 - Komplement: [[Identität vor Resultat - Die 3 Ebenen]]
 - Forte-Brücke: [[Express ist die wichtigste Phase]] – Systeme produzieren Express
 - Skill: `/clear`

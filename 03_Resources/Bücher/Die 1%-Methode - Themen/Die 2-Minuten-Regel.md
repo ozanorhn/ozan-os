@@ -51,7 +51,7 @@ Auch wenn du es nicht perfekt kannst: **mach es schlecht.**
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Die 1%-Methode - James Clear]]
+- Hauptnotiz: [[Die 1%-Methode - James Clear]]
 - Übergreifend: [[Die 4 Gesetze der Verhaltensänderung]] (3. Gesetz: Einfach)
 - Komplement: [[Umfeld schlägt Motivation]]
 - Skill: `/clear`

@@ -2,7 +2,7 @@
 date: {{date}}
 tags: [goggins, daily-practice, mentale-staerke]
 typ: Tagespraxis
-quelle: "[[Ressource - Cant Hurt Me - David Goggins]]"
+quelle: "[[Cant Hurt Me - David Goggins]]"
 ---
 
 # Goggins Daily Practice – {{date}}

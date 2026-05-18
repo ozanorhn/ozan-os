@@ -44,6 +44,6 @@ Aktueller Engpass (laut Hauptnotiz, Stand 09.05.2026): **Express.** Open Loops 1
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Building a Second Brain - Tiago Forte]]
+- Hauptnotiz: [[Building a Second Brain - Tiago Forte]]
 - Detailthemen: [[PARA-Struktur - Organisation nach Aktionierbarkeit]], [[Progressive Summarization - Distill in Schichten]], [[Express ist die wichtigste Phase]], [[Intermediate Packets - Wiederverwendbare Bausteine]]
 - Skill: `/forte`

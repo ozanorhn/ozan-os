@@ -204,6 +204,6 @@ Greif hier rein wenn eine Einheit schwer fällt:
 - [[PPL Trainingsplan]] – Übungen, Sätze, Gewichte, Deload-Details
 - [[Laufplan-Methoden-Plan]] – gleiches Drei-Methoden-System für Laufen
 - [[Cookie Jar - Meine Siege]] – Siegarchiv für schwere Einheiten
-- [[Ressource - Cant Hurt Me - David Goggins]] – 40%-Regel, AAR, Calloused Mind
-- [[Ressource - The 5 AM Club - Robin Sharma]] – Twin Cycles, Pre-Sleep Ritual
-- [[Ressource - Die 1%-Methode - James Clear]] – Identität, 1% besser, niemals zweimal
+- [[Cant Hurt Me - David Goggins]] – 40%-Regel, AAR, Calloused Mind
+- [[The 5 AM Club - Robin Sharma]] – Twin Cycles, Pre-Sleep Ritual
+- [[Die 1%-Methode - James Clear]] – Identität, 1% besser, niemals zweimal

@@ -36,6 +36,6 @@ Goggins entwickelte den Accountability Mirror mit 17, als ein Brief kam, dass er
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Cant Hurt Me - David Goggins]]
+- Hauptnotiz: [[Cant Hurt Me - David Goggins]]
 - Andere Goggins-Werkzeuge: [[Calloused Mind und die 40% Regel]], [[Cookie Jar - Mentale Reserven aktivieren]], [[Empowerment of Failure - AAR statt Selbstmitleid]]
 - Skill: `/goggins`

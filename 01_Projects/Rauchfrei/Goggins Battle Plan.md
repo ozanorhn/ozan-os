@@ -3,7 +3,7 @@ titel: Goggins Battle Plan – Rauchfrei
 datum: 2026-05-08
 aktualisiert: 2026-05-09
 tags: [rauchfrei, mindset, aar, visualization]
-quelle: "[[Ressource - Cant Hurt Me - David Goggins]]"
+quelle: "[[Cant Hurt Me - David Goggins]]"
 verbunden: ["[[Trigger-Analyse]]", "[[Cookie Jar - Meine Siege]]"]
 status: aktiv
 modus: C
@@ -194,7 +194,7 @@ Wenn du rauchst:
 
 ## Verwandte Notizen
 
-- [[Ressource - Cant Hurt Me - David Goggins]] – die Methodik
+- [[Cant Hurt Me - David Goggins]] – die Methodik
 - [[Trigger-Analyse]] – deine Trigger-Tabelle
 - [[Cookie Jar - Meine Siege]] – mentale Munition
 - [[Fortschritt]] – Tag-für-Tag Tracking

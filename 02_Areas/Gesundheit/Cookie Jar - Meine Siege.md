@@ -2,7 +2,7 @@
 date: 2026-05-08
 tags: [mindset, mentale-staerke, cookie-jar]
 typ: Mental-Tool
-quelle: "[[Ressource - Cant Hurt Me - David Goggins]]"
+quelle: "[[Cant Hurt Me - David Goggins]]"
 status: lebendiges-dokument
 ---
 
@@ -119,7 +119,7 @@ Wenn du in einem schweren Moment bist – Training will nicht, Rauch-Verlangen, 
 
 ## Verwandte Notizen
 
-- [[Ressource - Cant Hurt Me - David Goggins]]
+- [[Cant Hurt Me - David Goggins]]
 - [[Fett to Fit]]
 - [[project_rauchfrei]]
 - [[finances]]

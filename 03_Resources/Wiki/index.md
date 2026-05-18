@@ -14,10 +14,10 @@ aktualisiert: 2026-05-16
 
 | Seite | Zusammenfassung | Tags | Zuletzt |
 |-------|-----------------|------|---------|
-| [[Ressource - Cant Hurt Me - David Goggins]] | Goggins-Framework: Accountability Mirror, Cookie Jar, 40%-Regel, Callus the Mind. Direkte Grundlage für Rauchfrei Modus C. | #buch #mindset #goggins | 2026-05 |
-| [[Ressource - Die 1%-Methode - James Clear]] | Atomic Habits: 4 Gesetze guter Gewohnheiten, Identity-Based Habits, Habit Stacking. Anwendung auf Rauchfrei + Gym-Routine. | #buch #habits #gewohnheiten | 2026-05 |
-| [[Ressource - The 5 AM Club - Robin Sharma]] | 20/20/20-Formel (Move/Reflect/Grow), Victory Hour, Dual-Cycle Theorie. Basis für Frühaufsteher-Plan. | #buch #morgenroutine #produktivität | 2026-05 |
-| [[Ressource - Building a Second Brain - Tiago Forte]] | PARA-Methode, CODE (Capture/Organize/Distill/Express), Progressive Summarization. Grundlage dieses Vaults. | #buch #pkm #para | 2026-04 |
+| [[Cant Hurt Me - David Goggins]] | Goggins-Framework: Accountability Mirror, Cookie Jar, 40%-Regel, Callus the Mind. Direkte Grundlage für Rauchfrei Modus C. | #buch #mindset #goggins | 2026-05 |
+| [[Die 1%-Methode - James Clear]] | Atomic Habits: 4 Gesetze guter Gewohnheiten, Identity-Based Habits, Habit Stacking. Anwendung auf Rauchfrei + Gym-Routine. | #buch #habits #gewohnheiten | 2026-05 |
+| [[The 5 AM Club - Robin Sharma]] | 20/20/20-Formel (Move/Reflect/Grow), Victory Hour, Dual-Cycle Theorie. Basis für Frühaufsteher-Plan. | #buch #morgenroutine #produktivität | 2026-05 |
+| [[Building a Second Brain - Tiago Forte]] | PARA-Methode, CODE (Capture/Organize/Distill/Express), Progressive Summarization. Grundlage dieses Vaults. | #buch #pkm #para | 2026-04 |
 | [[Bücher/Der Alchimist - Paulo Coelho]] | Persönliche Legende, Zeichen erkennen, dem eigenen Weg folgen. | #buch #philosophie | 2026-04 |
 | [[Bücher/Der Weg des wahren Mannes - David Deida]] | Maskuline/feminine Energie, Purpose, tiefe Beziehungen. | #buch #beziehung #maskulinität | 2026-04 |
 | [[Bücher/Siddhartha - Hermann Hesse]] | Erleuchtung, Selbstfindung, Gleichmut. | #buch #philosophie | 2026-04 |
@@ -27,7 +27,7 @@ aktualisiert: 2026-05-16
 | Seite | Zusammenfassung | Tags | Zuletzt |
 |-------|-----------------|------|---------|
 | [[Arnold Split vs PPL]] | Vergleich beider Trainingssysteme. Entscheidung für PPL bei Fett to Fit. | #fitness #training | 2026-04 |
-| [[Ressource - taste-skill - High-Agency Frontend AI Skills]] | Frontend AI Skills: Agentic UX, Claude Code, MCP-Integration. | #karriere #frontend #ai | 2026-04 |
+| [[taste-skill - High-Agency Frontend AI Skills]] | Frontend AI Skills: Agentic UX, Claude Code, MCP-Integration. | #karriere #frontend #ai | 2026-04 |
 
 ## Finanzen & Immobilien
 
@@ -39,8 +39,8 @@ aktualisiert: 2026-05-16
 
 | Seite | Zusammenfassung | Tags | Zuletzt |
 |-------|-----------------|------|---------|
-| [[Ressource - Karriere Tipps - JobTeaser]] | Karriere-Hinweise von JobTeaser-Plattform. | #karriere | 2026-04 |
-| [[Ressource - Friseur Hannover - Izmir]] | Lokale Empfehlung. | #hannover | 2026-04 |
+| [[Karriere Tipps - JobTeaser]] | Karriere-Hinweise von JobTeaser-Plattform. | #karriere | 2026-04 |
+| [[Friseur Hannover - Izmir]] | Lokale Empfehlung. | #hannover | 2026-04 |
 
 ---
 

@@ -46,7 +46,7 @@ Konkret für Ozan – aktueller Anker:
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Cant Hurt Me - David Goggins]]
+- Hauptnotiz: [[Cant Hurt Me - David Goggins]]
 - Anker im Vault: [[Accountability Mirror - Brutale Ehrlichkeit]]
 - Express-Brücke: [[Express ist die wichtigste Phase]] – AAR ist Express-Vehikel nach Scheitern
 - Skill: `/goggins`

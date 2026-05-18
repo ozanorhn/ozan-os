@@ -45,7 +45,7 @@ Je enger eine Identität, desto fragiler. Bessere Reformulierungen:
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Die 1%-Methode - James Clear]]
+- Hauptnotiz: [[Die 1%-Methode - James Clear]]
 - Komplement: [[System statt Ziele - Was Profis unterscheidet]]
 - Deida-Brücke: [[Lebenszweck über Beziehung]] – Wer-sein vor Was-tun
 - Skill: `/clear`

@@ -62,7 +62,7 @@ Beispiele:
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Die 1%-Methode - James Clear]]
+- Hauptnotiz: [[Die 1%-Methode - James Clear]]
 - Detail: [[Die 2-Minuten-Regel]], [[Umfeld schlägt Motivation]]
 - Komplement: [[Identität vor Resultat - Die 3 Ebenen]]
 - Skill: `/clear`

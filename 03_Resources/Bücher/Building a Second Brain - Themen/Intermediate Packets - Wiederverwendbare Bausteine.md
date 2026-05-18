@@ -38,6 +38,6 @@ Ein **Intermediate Packet (IP)** ist ein kleines, in sich abgeschlossenes Ergebn
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Building a Second Brain - Tiago Forte]]
+- Hauptnotiz: [[Building a Second Brain - Tiago Forte]]
 - Übergreifend: [[CODE-Methode - Capture Organize Distill Express]]
 - Methodischer Anker: [[Express ist die wichtigste Phase]] – IPs sind Express-Vehikel

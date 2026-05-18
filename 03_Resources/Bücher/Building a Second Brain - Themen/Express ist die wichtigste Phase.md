@@ -41,7 +41,7 @@ Symptome:
 
 ## Verbindung
 
-- Hauptnotiz: [[Ressource - Building a Second Brain - Tiago Forte]]
+- Hauptnotiz: [[Building a Second Brain - Tiago Forte]]
 - Übergreifend: [[CODE-Methode - Capture Organize Distill Express]]
 - Anti-Pattern: [[Collector's Fallacy]] (Forte) – im Hauptdokument
 - Clear-Brücke: [[System statt Ziele - Was Profis unterscheidet]]

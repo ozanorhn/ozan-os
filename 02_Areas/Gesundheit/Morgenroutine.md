@@ -157,9 +157,9 @@ Details: [[Abendroutine]]
 ## Lesen – aktuelle Bücher
 
 - Siddhartha – Hermann Hesse ← aktuell
-- [[Ressource - Cant Hurt Me - David Goggins]] (gelesen)
-- [[Ressource - The 5 AM Club - Robin Sharma]] (gelesen)
-- [[Ressource - Die 1%-Methode - James Clear]] (gelesen)
+- [[Cant Hurt Me - David Goggins]] (gelesen)
+- [[The 5 AM Club - Robin Sharma]] (gelesen)
+- [[Die 1%-Methode - James Clear]] (gelesen)
 
 ---
 
