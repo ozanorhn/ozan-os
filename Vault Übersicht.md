@@ -28,6 +28,7 @@ Dieses Vault ist Ozans persönliches PARA-System – ein Ort für aktive Projekt
 
 ## Navigation
 
+- [[06_Metadata/Reference/Vault Guide - Was gehört rein|Vault Guide]] – wofür dieses Vault da ist (und wofür nicht)
 - `07_Daily/` – Tagesnotizen (Daily Notes)
 - [[06_Metadata/Reference/Dashboard|Dashboard]] – Dataview-Übersicht: Inbox, offene Tasks, aktive Projekte
 - [[06_Metadata/Plans/Jahresplan 2026 – Kern|Jahresplan 2026]] – Jahresziele und Meilensteine
