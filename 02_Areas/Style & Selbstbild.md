@@ -14,5 +14,5 @@ status: offen
 
 ## Nächste Schritte
 
-- [ ] Inspirationen sammeln (Pinterest, Instagram)
-- [ ] Friseur-Termin → verschiedene Styles ausprobieren
+Friseur-Termin → **Google Tasks** (Liste „Meine Aufgaben").
+Inspirationen sammeln (Pinterest, Instagram) – läuft passiv.

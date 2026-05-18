@@ -31,9 +31,11 @@ Gewinner und Verlierer haben dieselben Ziele. Den Unterschied macht das System.
 ## Das System (Clear + Sharma)
 
 ### Abend vorher (Sharma – Pre-Sleep Ritual)
-- [ ] Gymtasche gepackt (Handtuch, Trinkflasche, Gürtel falls nötig)
-- [ ] Trainingsklamotten rauslegen
-- [ ] Gewichte aus letzter Einheit kurz reviewen – was wird heute die Aufgabe?
+
+Routine (manuell):
+- Gymtasche gepackt (Handtuch, Trinkflasche, Gürtel falls nötig)
+- Trainingsklamotten rauslegen
+- Gewichte aus letzter Einheit kurz reviewen – was wird heute die Aufgabe?
 
 ### Vor-Gym-Trigger (Clear – 2-Minuten-Regel)
 > Der einzige Job am Trainingstag: **Gymtasche nehmen und rausgehen.**
@@ -182,9 +184,9 @@ Der Verstand wird durch absichtliches Aufsuchen von Diskomfort gestärkt. Im Gym
 **Zyklus 2 Einstieg:** LIMIT-Gewicht aus Zyklus 1 Woche 8 als neues Startgewicht für Woche 1.
 
 **Review-Termin So 24.05.2026 (in Weekly Synthesis):**
-- [ ] 3 Übungen identifiziert, die am stärksten progressiert haben
-- [ ] 1–2 Übungen identifiziert, die stagniert haben → Alternative für Z2 wählen
-- [ ] LIMIT-Gewichte W8 dokumentiert → Z2 Baseline
+- 3 Übungen identifizieren, die am stärksten progressiert haben
+- 1–2 Übungen identifizieren, die stagniert haben → Alternative für Z2 wählen
+- LIMIT-Gewichte W8 dokumentieren → Z2 Baseline
 
 ---
 

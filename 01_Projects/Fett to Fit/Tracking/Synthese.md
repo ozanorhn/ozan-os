@@ -129,10 +129,13 @@ Pull / Legs: keine Wdh.-Daten aus W6 – W7 setzt neue Baseline.
 
 ## Offene Punkte
 
-- [ ] KFA-Erstmessung (Caliper oder Smart-Waage) – bis 17.05.2026
-- [ ] MyFitnessPal Tracking re-starten – ab Mo 11.05.
-- [ ] Wiegen Mo morgens nüchtern – wöchentlich
-- [ ] Pull-Baseline + Legs-Baseline mit Wdh.-Daten in W7 setzen
+Aktionen → **Google Tasks** (Liste „Meine Aufgaben"):
+- KFA-Erstmessung (Caliper oder Smart-Waage)
+- MyFitnessPal Tracking re-starten
+- Wöchentlich Mo nüchtern wiegen
+
+Plan-Notiz (kein Task):
+- Pull-Baseline + Legs-Baseline mit Wdh.-Daten in W7 setzen (im neuen Plan)
 
 ---
 

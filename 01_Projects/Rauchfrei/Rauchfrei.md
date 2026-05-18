@@ -61,9 +61,10 @@ Siehe Tabelle oben. Wenn alle 4 Anker stehen, geht es in Phase 2.
 
 ### Phase 2 – Visualization (Mo 18.05.–So 31.05.)
 
-- [ ] Tägliches 5-Min-Skript: Tag 1, Tag 2, Tag 3 mental durchspielen ([[Goggins Battle Plan]] Teil 2)
-- [ ] Trigger-Tabelle reviewen + ggf. anpassen ([[Trigger-Analyse]])
-- [ ] Letzter Rauchtag: **So 31.05.2026** – bewusst, nicht zufällig
+Aktionen → **Google Tasks** (Liste „Meine Aufgaben"):
+- Tägliches 5-Min-Skript: Tag 1, 2, 3 mental durchspielen ([[Goggins Battle Plan]] Teil 2)
+- Trigger-Tabelle reviewen + ggf. anpassen ([[Trigger-Analyse]])
+- Letzter Rauchtag: **So 31.05.2026** – bewusst, nicht zufällig
 
 ### Phase 2 – Erste Woche (die härteste)
 

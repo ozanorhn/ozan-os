@@ -54,24 +54,33 @@ Türkische Hochzeit – mit allen Traditionen:
 | **August 2026** | Detail-Checkliste, Nişan Şekeri |
 | **Sep 2026** | **🎉 Nişan 19.09.2026** |
 
-## Nächste Schritte
+## Status
 
-- [x] Heiratsantrag vorbereiten (05.04.2026) ✓ – Sie hat Ja gesagt!
-- [x] 400 € für Antrag bezahlen (vor 05.04.2026)
-- [x] Nişan-Location ✓ (wird von Frau-Seite organisiert)
-- [x] Hochzeitssaal ✓ gebucht
-- [x] Takı & Altın ✓ vorbereitet
-- [x] **Nişan Yüzükleri** – Kauf am 30.05.2026 (Geburtstag Ozan) ✓ geplant
-- [ ] Gelin Bohçası: 1 Kategorie pro Woche ab KW 17 → komplett in 8 Wochen (siehe [[Gelin Bohçası Checkliste]])
-- [x] Fotograf für Nişan – kein Fotograf gewünscht (Entscheidung Apr 2026)
-- [ ] Einladungen versenden – **bis Ende Juni 2026**
-- [ ] Gästeliste finalisieren (erst für Düğün 2027 nötig)
-- [ ] Standesamt Termin buchen (Aug/Sep 2027, ca. 1–2 Monate vor Hochzeit)
+Erledigt:
+- ✅ Heiratsantrag 05.04.2026 – Sie hat Ja gesagt
+- ✅ 400 € für Antrag bezahlt
+- ✅ Nişan-Location (Frau-Seite organisiert)
+- ✅ Hochzeitssaal gebucht
+- ✅ Takı & Altın vorbereitet
+- ✅ Nişan Yüzükleri – Kauf 30.05.2026 (Ozans Geburtstag) geplant
+- ✅ Kein Fotograf für Nişan (Entscheidung Apr 2026)
+
+Aktive Loops → **Google Tasks** (Liste „Hochzeit"):
+- Verlobungsring kaufen bis 30.05.
+- Nişan-Geschenke bestellen
+- Einladungen versenden bis Ende Juni 2026
+- Dekoration Nişan abstimmen
+- Catering / Fotograf-Frage / Takım Elbise
+- Hochzeitsfonds einrichten (400 €/M)
+- Gelin Bohçası: 1 Kategorie pro Woche ab KW21
+
+Spätere Phasen (Plan-Notiz, kein Task):
+- Gästeliste finalisieren – für Düğün 2027
+- Standesamt Termin buchen – Aug/Sep 2027
 
 ## Google Tasks
 
-Tasks werden in der **"Hochzeit"**-Liste in Google Tasks synchronisiert.
-Neue Tasks hier eintragen → beim nächsten Weekly Review in Google Tasks übertragen.
+Alle aktiven Tasks in der **„Hochzeit"**-Liste. Vault hier nur für Plan, Termine und Entscheidungen.
 
 ---
 *Mehr Details in den Unterordnern.*

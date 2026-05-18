@@ -135,13 +135,14 @@ Fehlt einer → C automatisch abgesagt.
 | 3 | Smoke Free App installiert + 01.06. eingetragen | So 17.05. |
 | 4 | Geldbinde-Regel mit Verlobter besprochen (5 €/Zigarette in Hochzeitsfonds) | So 17.05. |
 
-### Vor-Start Checkliste (vorletzte Woche bis 31.05.)
+### Vor-Start Plan (vorletzte Woche bis 31.05.)
 
-- [ ] Mo 18.05. – Visualization-Skript starten (5 Min/Abend)
-- [ ] So 24.05. – Trigger-Tabelle reviewen
-- [ ] Sa 30.05. – Cookie Jar lesen + neue Siege ergänzen
-- [ ] So 31.05. – **Letzter Rauchtag** (bewusst, nicht zufällig)
-- [ ] So 31.05. abends – alle Zigaretten/Anzünder weg, Pflaster bereit fürs Gesicht des Wecker
+Aktionen → **Google Tasks** (Liste „Meine Aufgaben"):
+- Mo 18.05. – Visualization-Skript starten (5 Min/Abend)
+- So 24.05. – Trigger-Tabelle reviewen
+- Sa 30.05. – Cookie Jar lesen + neue Siege ergänzen
+- So 31.05. – **Letzter Rauchtag** (bewusst, nicht zufällig)
+- So 31.05. abends – alle Zigaretten/Anzünder weg, Pflaster bereit fürs Gesicht des Weckers
 
 ---
 

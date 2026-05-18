@@ -71,14 +71,14 @@ Der Kindle ersetzt die Langeweile. Schritt 1 verhindert das unbewusste Greifen z
 
 ---
 
-## Check – täglich
+## Schritte – täglich (manuell tracken, nicht im Vault)
 
-- [ ] Ashwagandha + Magnesium direkt nach Auflegen
-- [ ] Liegestütze gemacht
-- [ ] Zähne + Gesicht
-- [ ] **Klamotten + Tasche für morgen rauslegen**
-- [ ] Kindle statt Handy
-- [ ] Handy weggelegt beim Einschlafen
+1. Ashwagandha + Magnesium direkt nach Auflegen
+2. Liegestütze gemacht
+3. Zähne + Gesicht
+4. **Klamotten + Tasche für morgen rauslegen**
+5. Kindle statt Handy
+6. Handy weggelegt beim Einschlafen
 
 ---
 

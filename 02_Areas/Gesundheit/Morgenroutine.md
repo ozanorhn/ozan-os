@@ -128,14 +128,15 @@ Die Reihenfolge ist nicht verhandelbar – erst MOVE schafft die neurochemische 
 
 ## Die 6 Tages-Gewohnheiten (Clear – Chain Tracker)
 
-Nach jedem erfolgreichen Morgen: **X im Kalender.** Niemals zweimal aussetzen.
+Nach jedem erfolgreichen Morgen: **X im Kalender** (manuell, nicht im Vault).
+Niemals zweimal aussetzen.
 
-- [ ] Kein Snooze – sofort aufgestanden
-- [ ] Sonnenlicht (5 Min.)
-- [ ] Bewegt (Gym / Laufen / Dehnen)
-- [ ] REFLECT-Journal geschrieben
-- [ ] Kein Social Media – Podcast statt Scrollen
-- [ ] Supplements nicht vergessen
+1. Kein Snooze – sofort aufgestanden
+2. Sonnenlicht (5 Min.)
+3. Bewegt (Gym / Laufen / Dehnen)
+4. REFLECT-Journal geschrieben
+5. Kein Social Media – Podcast statt Scrollen
+6. Supplements nicht vergessen
 
 ---
 

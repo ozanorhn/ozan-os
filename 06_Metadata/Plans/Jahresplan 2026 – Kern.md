@@ -40,14 +40,14 @@ Soll-Ist-Abgleich für den Monatsreview (letzter Sonntag). Abweichung >10% auf e
 
 Der Plan ist geglückt, wenn am Jahresende **alle 8 Punkte** stehen. Das ist der einzige Erfolgs-Maßstab:
 
-- [ ] Nettovermögen ≥ **13.000 €** (Ziel Road to 100k)
-- [ ] Gewicht **80–82 kg**, Körperfett **<18%** (Baseline mess-vergleichbar)
-- [ ] Rauchfrei **≥ 240 Tage** (Start spätestens 27.04.)
-- [ ] **Nişan erfolgreich** durchgeführt (19.09.2026)
-- [ ] **BU-Angebote eingeholt** (Nichtraucher-Tarif ab April 2027)
-- [ ] **ETF-Sparplan ≥ 300 €/M** (nach Riester-Umlenkung)
-- [ ] **Sommerurlaub (20 Tage) als aktive Phase** (kein Rauchfrei-/Trainings-Rückschritt)
-- [ ] **Inbox < 20 Items, 0 offene Loops > 30 Tage**
+1. Nettovermögen ≥ **13.000 €** (Ziel Road to 100k)
+2. Gewicht **80–82 kg**, Körperfett **<18%** (Baseline mess-vergleichbar)
+3. Rauchfrei **≥ 240 Tage** (Start 01.06.2026)
+4. **Nişan erfolgreich** durchgeführt (19.09.2026)
+5. **BU-Angebote eingeholt** (Nichtraucher-Tarif ab April 2027)
+6. **ETF-Sparplan ≥ 300 €/M** (nach Riester-Umlenkung)
+7. **Sommerurlaub (20 Tage) als aktive Phase** (kein Rauchfrei-/Trainings-Rückschritt)
+8. **Inbox < 20 Items, 0 offene Loops > 30 Tage**
 
 Wenn diese 8 Punkte stehen, sitzen die Weichen für BU (April 2027), Düğün (Oktober 2027) und Road to 100k (2033).
 

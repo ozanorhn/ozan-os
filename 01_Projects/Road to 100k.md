@@ -107,11 +107,11 @@ Sobald 12 Monate rauchfrei → Nichtraucher-Tarif. Das schützt das aufgebaute V
 
 ## Regeln
 
-- [ ] ETF-Sparplan **nie pausieren** – auch in schlechten Marktphasen
-- [ ] TR-Zocken begrenzen: kein neues Kapital in Derivate oder spekulative Einzelwetten
-- [ ] Nettovermögen **1× im Monat** in die Tabelle eintragen
-- [ ] Jährliches Rebalancing bei >5 % Abweichung (über Sparraten, nicht durch Verkauf)
-- [ ] Hochzeitskosten **nicht aus ETF-Depot** finanzieren – nur aus laufendem Einkommen
+- ETF-Sparplan **nie pausieren** – auch in schlechten Marktphasen
+- TR-Zocken begrenzen: kein neues Kapital in Derivate oder spekulative Einzelwetten
+- Nettovermögen **1× im Monat** in die Tabelle eintragen
+- Jährliches Rebalancing bei >5 % Abweichung (über Sparraten, nicht durch Verkauf)
+- Hochzeitskosten **nicht aus ETF-Depot** finanzieren – nur aus laufendem Einkommen
 
 ---
 

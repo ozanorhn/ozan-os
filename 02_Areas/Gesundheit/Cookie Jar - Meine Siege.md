@@ -64,12 +64,13 @@ Wenn du in einem schweren Moment bist – Training will nicht, Rauch-Verlangen, 
 
 ## 💪 Was noch hinzukommt (in Bearbeitung)
 
-> Ergänze hier nach jedem überwundenen Hindernis, jedem durchgezogenen Trainingstag der hart war, jeder Versuchung der widerstanden wurde.
+> Ergänze hier nach jedem überwundenen Hindernis, jedem durchgezogenen Trainingstag der hart war, jeder Versuchung der widerstanden wurde. Wenn ein Sieg gemacht wurde: als ✅-Zeile darüber schieben.
 
-- [ ] Erster rauchfreier Tag durchgezogen
-- [ ] Erste Woche rauchfrei
-- [ ] Erstes Trainingsmaximum mit 40%-Push überschritten
-- [ ] Erstes Training trotz extremer Müdigkeit gemacht
+Erwartete Siege auf dem Weg:
+- Erster rauchfreier Tag durchgezogen
+- Erste Woche rauchfrei
+- Erstes Trainingsmaximum mit 40%-Push überschritten
+- Erstes Training trotz extremer Müdigkeit gemacht
 
 ---
 

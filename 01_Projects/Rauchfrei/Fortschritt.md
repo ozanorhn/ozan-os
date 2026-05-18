@@ -15,21 +15,14 @@ modus: goggins-hardcore-c
 
 ---
 
-## Vorbereitung (Phase 1 – Externe Anker · 09.05.–17.05.)
+## Vorbereitung (Phase 1 – Externe Anker · 09.05.–31.05.)
 
-- [x] AAR ausgefüllt 09.05.2026 ([[Goggins Battle Plan]] Teil 1)
-- [x] Datum festgelegt: **Mo 01.06.2026**
-- [x] Modus festgelegt: **C – Force the want through the action**
-- [ ] **Anker 1:** Verlobte informiert (bis So 10.05.)
-- [ ] **Anker 2:** Pflaster Stufe 2 + Kaugummi gekauft (bis Mi 13.05.)
-- [x] **Anker 3:** Smoke Free App installiert + 01.06. eingetragen ✅ 09.05.2026
-- [ ] **Anker 4:** Geldbinde-Regel mit Verlobter besprochen (5 €/Zigarette in Hochzeitsfonds)
-
-## Phase 2 – Visualization (Mo 18.05.–So 31.05.)
-
-- [ ] Täglich 5 Min: Tag 1, 2, 3 mental durchspielen
-- [ ] Trigger-Tabelle reviewen
-- [ ] Letzter Rauchtag: So 31.05.2026 (bewusst)
+Status:
+- Anker 1, 2, 4 + Visualization-Skript + Trigger-Tabelle + Letzter Rauchtag → **Google Tasks**, Liste „Meine Aufgaben"
+- Anker 3 ✅ Smoke Free App installiert (09.05.2026)
+- AAR ✅ 09.05.2026 ([[Goggins Battle Plan]] Teil 1)
+- Datum ✅ **Mo 01.06.2026** locked in
+- Modus ✅ **C – Force the want through the action**
 
 ---
 
@@ -40,13 +33,13 @@ modus: goggins-hardcore-c
 
 ## Meilensteine (ab Tag 1)
 
-- [ ] **24 Stunden** – Nikotin verlässt den Blutkreislauf
-- [ ] **3 Tage** – Nikotin komplett raus, Entzug am stärksten
-- [ ] **1 Woche** – Das Schlimmste ist vorbei
-- [ ] **2 Wochen** – Lungenfunktion verbessert sich
-- [ ] **1 Monat** – Cravings werden seltener, Ausdauer merklich besser
-- [ ] **3 Monate** – Rauchen fühlt sich nicht mehr „normal" an
-- [ ] **6 Monate** – Verlobungsfeier-Bezug 19.09.2026 (sobald Datum steht)
+- **24 Stunden** – Nikotin verlässt den Blutkreislauf
+- **3 Tage** – Nikotin komplett raus, Entzug am stärksten
+- **1 Woche** – Das Schlimmste ist vorbei
+- **2 Wochen** – Lungenfunktion verbessert sich
+- **1 Monat** – Cravings werden seltener, Ausdauer merklich besser
+- **3 Monate** – Rauchen fühlt sich nicht mehr „normal" an
+- **6 Monate** – Verlobungsfeier-Bezug 19.09.2026 (sobald Datum steht)
 
 ---
 

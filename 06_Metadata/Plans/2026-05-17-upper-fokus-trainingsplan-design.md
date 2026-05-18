@@ -200,10 +200,11 @@ JEDE Woche (kein A/B-Wechsel):
 
 ## Baseline-Maßnahmen (sofort)
 
-- [ ] **KFA-Messung** bis Ende KW 20 (17.05.) – retroaktive Baseline (offen seit Start 30.03.)
-- [ ] **Wiegen Mo morgens nüchtern** – wöchentlich
-- [ ] **Foto** Front/Seite/Rücken in Sportkleidung – Baseline
-- [ ] **MyFitnessPal Tracking re-starten** – ab Mo 18.05.
+Alle Aktionen → **Google Tasks** (Liste „Meine Aufgaben"):
+- KFA-Messung – retroaktive Baseline
+- Wiegen Mo morgens nüchtern – wöchentlich
+- Foto Front/Seite/Rücken in Sportkleidung – Baseline
+- MyFitnessPal Tracking re-starten
 
 ---
 
@@ -257,7 +258,9 @@ JEDE Woche (kein A/B-Wechsel):
 - [x] Tracking-Files für KW 21 vorbereitet: [[2026-05-18 - Upper A W1]], [[2026-05-20 - Upper B W1]], [[2026-05-22 - Upper C W1]]
 
 ### Noch zu tun (User-Aktionen)
-- [ ] **KFA-Messung** bis Ende KW 20 – retroaktive Baseline
-- [ ] **Foto** Front/Seite/Rücken in Sportkleidung – Baseline für Vergleich
-- [ ] **MyFitnessPal** wieder aufsetzen – ab Mo 18.05.
-- [ ] **Mo 18.05. nüchtern wiegen** – wöchentliche Kontrolle starten
+
+Alle in **Google Tasks** (Liste „Meine Aufgaben"):
+- KFA-Messung – retroaktive Baseline
+- Foto Front/Seite/Rücken – Baseline
+- MyFitnessPal wieder aufsetzen
+- Mo nüchtern wiegen – wöchentlich

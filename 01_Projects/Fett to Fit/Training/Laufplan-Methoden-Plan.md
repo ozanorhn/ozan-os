@@ -32,9 +32,11 @@ Jedes Mal wenn du die Schuhe anziehst und rausgehst, stimmst du für diese Ident
 Das System läuft, bevor der erste Schritt getan ist.
 
 ### Abend vorher (Sharma – Pre-Sleep Ritual)
-- [ ] Laufklamotten rauslegen (sichtbar, nicht im Schrank)
-- [ ] 500 ml Wasser stellen
-- [ ] Wecker auf 06:00 Uhr (oder früher für Victory Hour)
+
+Routine (manuell):
+- Laufklamotten rauslegen (sichtbar, nicht im Schrank)
+- 500 ml Wasser stellen
+- Wecker auf 06:00 Uhr (oder früher für Victory Hour)
 
 ### Morgen-Trigger (Clear – 2-Minuten-Regel)
 > Der einzige Job beim Aufwachen: **Klamotten anziehen.**

@@ -55,11 +55,12 @@ status: aktiv
 
 Größtes Zeitfenster des Jahres. Plan laut [[06_Metadata/Plans/2026-04-19-jahresplan-2026|Jahresplan 2026]]:
 
-- [ ] **KW 19 (05.05.):** 3 Ziele recherchieren (Türkei / Kroatien / Italien?)
-- [ ] **KW 19 (07.05.):** Abend mit Verlobter – Ziel entscheiden
-- [ ] **KW 19 (08.05.):** Flug-/Unterkunftspreise vergleichen
-- [ ] **KW 20 (12.05.):** Unterkunft buchen
-- [ ] **KW 20 (17.05.):** Kalender + Flüge final
+Planungs-Schritte → **Google Tasks** (Liste „Meine Aufgaben"):
+- 3 Ziele recherchieren (Türkei / Kroatien / Italien?)
+- Abend mit Sedef: Ziel entscheiden
+- Flug-/Unterkunftspreise vergleichen
+- Unterkunft buchen
+- Kalender + Flüge final
 
 **Aktive Urlaubsphase (Prinzipien):**
 - Training vor Ort: Hotel-Gym oder Bodyweight-Routine (PPL-Schema anpassen)

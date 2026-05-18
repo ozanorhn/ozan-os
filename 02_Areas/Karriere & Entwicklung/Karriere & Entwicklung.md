@@ -35,10 +35,12 @@ Vollständiges Skills-Profil: [[Profil & Skills]]
 
 ## Aktuelle offene Loops
 
-- [ ] Reflexions-Slot (30 Min.) – "Sichtbarkeit 2026" konkreten ersten Schritt wählen (KW 17)
-- [ ] 1 Fach-Artikel/Podcast konsumiert + 3 Takeaways notiert (KW 18)
-- [ ] 1h Deep Work zu Claude API Advanced (KW 19)
-- [ ] 1 Netzwerk-Kontakt aktiviert (LinkedIn-Nachricht oder Kaffee-Einladung) (KW 20)
+Aktionen → **Google Tasks** (Liste „Karriere & Netzwerk"):
+- Reflexions-Slot 30 Min: „Sichtbarkeit 2026" – konkreten ersten Schritt wählen
+- 1 Fach-Artikel/Podcast konsumieren + 3 Takeaways notieren
+- 1h Deep Work zu Claude API Advanced
+- 1 Netzwerk-Kontakt aktivieren (LinkedIn-Nachricht oder Kaffee)
+- LinkedIn-Profil optimieren + ersten Post schreiben
 
 ## Themen
 

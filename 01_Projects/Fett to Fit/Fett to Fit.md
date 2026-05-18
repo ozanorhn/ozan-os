@@ -67,14 +67,22 @@ Das sind ~**24 Wochen** ab 30.03.2026.
 - `Training/` – Workouts und Pläne
 - `Ernährung/` – Rezepte, Mahlzeitenpläne
 
-## Nächste Schritte
+## Status
 
-- [x] Ausgangswerte dokumentieren (Gewicht, Maße) ✅ 2026-04-10
-- [x] Erstes ernsthaftes Training ✅ 2026-03-30
-- [x] Supplements kaufen: K2 MK-7, Magnesium, Ashwagandha KSM-66 ✅ 2026-04-14
-- [ ] **Körperfett-Baseline messen** (Caliper ~15 € oder Smart-Waage) – KW 19 (04.–10.05.)
-- [ ] Zielgewicht: ~81 kg bis Nişan (19.09.2026) – Körperfett <18 %
-- [ ] Protein-Operationalisierung: fixe Mahlzeiten-Regel statt reines Tracking (siehe [[Ernährung/Diätplan]])
+Erledigt:
+- ✅ Ausgangswerte dokumentieren (2026-04-10)
+- ✅ Erstes ernsthaftes Training (2026-03-30)
+- ✅ Supplements kaufen: K2 MK-7, Magnesium, Ashwagandha KSM-66 (2026-04-14)
+
+Aktive Loops → **Google Tasks** (Liste „Meine Aufgaben"):
+- KFA-Baseline messen (Caliper oder Smart-Waage)
+- 3 Body-Fotos diese Woche
+- MyFitnessPal Tracking re-starten
+- Wöchentlich Mo nüchtern wiegen
+
+Zielwerte (Tracking, keine Tasks):
+- ~81 kg bis Nişan (19.09.2026) – Körperfett < 18 %
+- Protein-Operationalisierung: fixe Mahlzeiten-Regel statt reines Tracking (siehe [[Ernährung/Diätplan]])
 
 ---
 _Dieses Projekt ist eng mit dem Bereich [[02_Areas/Gesundheit/Gesundheit|Gesundheit]] verknüpft._
