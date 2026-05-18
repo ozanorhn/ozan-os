@@ -145,6 +145,13 @@ Goggins selbst hat nach seinem Zusammenbruch 2014 das Stretchen entdeckt und sei
 
 ---
 
+## Themen-Notizen
+
+- [[Accountability Mirror - Brutale Ehrlichkeit]]
+- [[Calloused Mind und die 40% Regel]]
+- [[Cookie Jar - Mentale Reserven aktivieren]]
+- [[Empowerment of Failure - AAR statt Selbstmitleid]]
+
 ## Werkzeuge
 
 - [[Cookie Jar - Meine Siege]] – persönliches Sieg-Archiv (Format)

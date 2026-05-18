@@ -39,6 +39,11 @@ David Deida beschreibt, wie ein Mann authentisch und aus seiner Mitte heraus leb
 - Einige Kapitel fühlen sich esoterisch an (Energie, Lichtkörper etc.) – das kann man überspringen
 - Aus westlicher Sicht teils kulturell sehr spezifisch
 
+## Themen-Notizen
+- [[Lebenszweck über Beziehung]]
+- [[Maskulin-Feminin Polarität]]
+- [[Herausforderung statt Komfort]]
+
 ## Verbindungen
 - Passt zu: [[02_Areas/Bereiche]]
 - Verwandt mit: Identität, Partnerschaft, Selbstführung

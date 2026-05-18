@@ -41,7 +41,7 @@ Gewinner und Verlierer haben dieselben Ziele. Den Unterschied macht das System.
 Nicht „60 Minuten trainieren" als Vorsatz – sondern „im FitX ankommen". Wer einmal drin ist, trainiert. Immer.
 
 ### Realisierungsintention (Clear)
-> **„Ich trainiere Mo / Mi / Fr um [Uhrzeit] im FitX."**
+> **„Ich trainiere Di / Do / So um [Uhrzeit] im FitX."**
 
 Nicht *„Ich gehe diese Woche ins Gym"* – sondern spezifisch: Wochentag + Zeit + Ort. Alles andere ist Wunschdenken.
 
@@ -142,7 +142,7 @@ Stress · Wachstumsreiz        Reparatur · ZNS-Erholung · Integration
 - Gewicht: ~60% des Arbeitsgewichts
 - Sätze: -1 pro Übung
 - **Kein LIMIT-Satz, kein Failure** – 3–4 RIR immer
-- Kette läuft weiter: Mo / Mi / Fr im Kalender
+- Kette läuft weiter: Di / Do / So im Kalender
 
 ---
 

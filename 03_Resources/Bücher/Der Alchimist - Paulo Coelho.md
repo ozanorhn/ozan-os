@@ -43,6 +43,11 @@ Santiago, ein junger Schafhirte aus Andalusien, folgt einem Traum und bricht auf
 - Die spirituellen Elemente (Seele der Welt, Alchimie) kann man nicht ganz ernst nehmen – eher als Metapher lesen
 - Für manche zu kitschig, zu optimistisch – wer realistische Literatur sucht, ist hier falsch
 
+## Themen-Notizen
+- [[Personal Legend - Folge deiner Bestimmung]]
+- [[Angst vor dem Scheitern]]
+- [[Zeichen lesen und Intuition]]
+
 ## Verbindungen
 - Passt zu: [[01_Projects/Fett to Fit/Fett to Fit]] – der Gedanke, den Weg zu gehen auch wenn das Ziel weit weg scheint
 - Verwandt mit: Stoizismus (handeln trotz Unsicherheit), [[Der Weg des wahren Mannes - David Deida]] (Lebensweg und Zweck)

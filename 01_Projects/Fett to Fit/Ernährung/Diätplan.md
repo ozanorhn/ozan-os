@@ -75,7 +75,7 @@ Das funktioniert durch das Kaloriendefizit (2.470 kcal bei leicht aktivem Lebens
 
 ---
 
-## Gym-Tage (Mo / Mi / Fr)
+## Gym-Tage (Di / Do / So)
 
 An Trainingstagen vor dem Training eine Kleinigkeit essen falls Mahlzeit 2 mehr als 2 Std. zurückliegt:
 

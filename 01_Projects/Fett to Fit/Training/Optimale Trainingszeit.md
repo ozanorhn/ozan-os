@@ -12,9 +12,9 @@ FitX hat 24 Stunden geöffnet.
 
 ## Plan
 
-- **Mo / Mi / Fr** – nach der Arbeit (PPL-Plan)
-- **So** – optional, freies Training (kein PPL)
-- **Heimkommen:** spätestens 20 Uhr
+- **Di / Do** – nach dem Büro auf dem Heimweg (Bürotage)
+- **So** – flexibel, vormittags oder nachmittags
+- **Heimkommen Werktags:** spätestens 20 Uhr
 
 ## Verwandte Notizen
 

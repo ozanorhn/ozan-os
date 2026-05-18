@@ -193,6 +193,16 @@ Was Forte nicht erwähnt:
 
 ---
 
+## Themen-Notizen
+
+- [[CODE-Methode - Capture Organize Distill Express]]
+- [[PARA-Struktur - Organisation nach Aktionierbarkeit]]
+- [[Progressive Summarization - Distill in Schichten]]
+- [[Express ist die wichtigste Phase]]
+- [[Intermediate Packets - Wiederverwendbare Bausteine]]
+
+---
+
 ## Werkzeuge
 
 - [[Vault-Audit Skill]] – `/forte` Skill auf Basis dieser Notiz

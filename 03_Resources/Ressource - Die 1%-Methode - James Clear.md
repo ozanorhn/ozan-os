@@ -258,6 +258,16 @@ Je enger du dich mit einer Identität verbindest („Ich bin Sportler"), desto s
 
 ---
 
+## 📂 Themen-Notizen
+
+- [[Identität vor Resultat - Die 3 Ebenen]]
+- [[Die 4 Gesetze der Verhaltensänderung]]
+- [[Die 2-Minuten-Regel]]
+- [[Umfeld schlägt Motivation]]
+- [[System statt Ziele - Was Profis unterscheidet]]
+
+---
+
 ## 🔗 Verbindungen im Vault
 
 - [[Rauchfrei]] – akute Anwendung Identitätswechsel + Umkehrung der 4 Gesetze

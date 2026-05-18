@@ -355,6 +355,16 @@ Kompass-Tugenden eines Lebens, das wirkt:
 
 ---
 
+## 📂 Themen-Notizen
+
+- [[20-20-20 Formel - Die Victory Hour]]
+- [[66-Tage-Habit-Protokoll]]
+- [[4 Interior Empires - Mindset Heartset Healthset Soulset]]
+- [[Twin Cycles - Spannung und Erholung]]
+- [[Pre-Sleep Ritual und Schlafqualität]]
+
+---
+
 ## 🔗 Verwandte Werke (zum Vergleich/Vertiefen)
 
 - **James Clear – Atomic Habits**: Praxisnäher, ohne Storytelling, schärfere Mechanik der Gewohnheitsbildung
