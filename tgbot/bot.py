@@ -82,6 +82,7 @@ async def chat(update, context):
         )
 
         if result.returncode != 0:
+            sessions.pop(chat_id, None)
             await update.message.reply_text(
                 f"Claude-Fehler:\n{result.stderr[-1000:]}"
             )
