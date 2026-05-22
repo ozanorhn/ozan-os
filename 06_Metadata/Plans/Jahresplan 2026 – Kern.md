@@ -3,6 +3,7 @@ tags: [plan, jahresplan-2026, kern]
 status: aktiv
 horizont: 2026-12-31
 erstellt: 2026-04-19
+aktualisiert: 2026-05-22
 basis: "[[2026-04-19-jahresplan-2026]]"
 ---
 
@@ -19,16 +20,16 @@ basis: "[[2026-04-19-jahresplan-2026]]"
 
 Soll-Ist-Abgleich für den Monatsreview (letzter Sonntag). Abweichung >10% auf einer Kennzahl = Ursachen-Analyse im Weekly.
 
-| Monat | Thema | Gewicht | Nettovermögen | Rauchfrei | Meilenstein |
-|---|---|---|---|---|---|
-| **Mai 2026** | Rauchfrei-Grundstein | ~87 kg | ~9.300 € | 30+ Tage | PPL-Zyklus 1 Ende 24.05. → Deload → Zyklus 2 ab KW 23 |
-| **Juni 2026** | PPL Zyklus 2 + Nişan-Details | ~85,5 kg | ~9.900 € | 60+ Tage | Nişan-Einladungen (4 Mo vorher), Outfit-Anprobe |
-| **Juli 2026** | Vor-Sommerurlaub-Sprint | ~84 kg | ~10.500 € | 90+ Tage | PPL Zyklus 2 Ende, Hochzeits-Budget Q2-Review |
-| **August 2026** | Urlaubs-Rückkehr + Nişan-Endspurt | ~82,5 kg | ~11.000 € | 120+ Tage | Nişan finale Checkliste, Gelin Bohçası komplett, Fotograf bestätigt |
-| **September 2026** | **NİŞAN** | ~81 kg (−10 kg seit 30.03.) | ~11.500 € | 170+ Tage | ✨ **Nişan 19.09.2026** |
-| **Oktober 2026** | Post-Nişan, BU-Vorbereitung | ~81 kg (Erhalt) | ~12.000 € | 200+ Tage | BU-Angebote (3 Versicherer), Düğün 2027 Gästeliste Draft |
-| **November 2026** | Konsolidierung | 80–82 kg | ~12.500 € | 210+ Tage | Jahres-Budget-Review, ETF-Performance 2026 dokumentiert, BU in Bearbeitung |
-| **Dezember 2026** | Jahresabschluss | 80 kg | **~13.000 €** (+4.200 € YTD) | 240+ Tage | Jahres-Retro, Düğün-Planung konkret, Nikah-Termin Januar 2027 vorbereiten |
+| Monat | Thema | Gewicht | Nettovermögen | Meilenstein |
+|---|---|---|---|---|
+| **Mai 2026** | Upper-Fokus Start | ~87 kg | ~9.300 € | PPL-Zyklus 1 Ende 24.05. → Deload → Upper-Fokus ab KW 23 |
+| **Juni 2026** | Upper Zyklus 1 + Nişan-Details | ~85,5 kg | ~9.900 € | Nişan-Einladungen (4 Mo vorher), Outfit-Anprobe |
+| **Juli 2026** | Vor-Sommerurlaub-Sprint | ~84 kg | ~10.500 € | Upper Zyklus 1 Ende, Hochzeits-Budget Q2-Review |
+| **August 2026** | Urlaubs-Rückkehr + Nişan-Endspurt | ~82,5 kg | ~11.000 € | Nişan finale Checkliste, Gelin Bohçası komplett, Fotograf bestätigt |
+| **September 2026** | **NİŞAN** | ~81 kg (−10 kg seit 30.03.) | ~11.500 € | ✨ **Nişan 19.09.2026** |
+| **Oktober 2026** | Post-Nişan, BU-Vorbereitung | ~81 kg (Erhalt) | ~12.000 € | BU-Angebote (3 Versicherer), Düğün 2027 Gästeliste Draft |
+| **November 2026** | Konsolidierung | 80–82 kg | ~12.500 € | Jahres-Budget-Review, ETF-Performance 2026 dokumentiert, BU in Bearbeitung |
+| **Dezember 2026** | Jahresabschluss | 80 kg | **~13.000 €** (+4.200 € YTD) | Jahres-Retro, Düğün-Planung konkret, Nikah-Termin Januar 2027 vorbereiten |
 
 **Feiertags-Vorausschau (Training vorher verschieben, nie kompensieren):**
 - 01.05. (Fr), 14.05. (Do Himmelfahrt), 25.05. (Mo Pfingsten), 03.10. (Sa Dt. Einheit)
@@ -42,14 +43,13 @@ Der Plan ist geglückt, wenn am Jahresende **alle 8 Punkte** stehen. Das ist der
 
 1. Nettovermögen ≥ **13.000 €** (Ziel Road to 100k)
 2. Gewicht **80–82 kg**, Körperfett **<18%** (Baseline mess-vergleichbar)
-3. Rauchfrei **≥ 240 Tage** (Start 01.06.2026)
-4. **Nişan erfolgreich** durchgeführt (19.09.2026)
-5. **BU-Angebote eingeholt** (Nichtraucher-Tarif ab April 2027)
-6. **ETF-Sparplan ≥ 300 €/M** (nach Riester-Umlenkung)
-7. **Sommerurlaub (20 Tage) als aktive Phase** (kein Rauchfrei-/Trainings-Rückschritt)
-8. **Inbox < 20 Items, 0 offene Loops > 30 Tage**
+3. **Nişan erfolgreich** durchgeführt (19.09.2026)
+4. **BU-Angebote eingeholt** (3 Versicherer bis Oktober)
+5. **ETF-Sparplan ≥ 300 €/M** (nach Riester-Umlenkung)
+6. **Sommerurlaub (20 Tage) als aktive Phase** (kein Trainings-Rückschritt)
+7. **Inbox < 20 Items, 0 offene Loops > 30 Tage**
 
-Wenn diese 8 Punkte stehen, sitzen die Weichen für BU (April 2027), Düğün (Oktober 2027) und Road to 100k (2033).
+Wenn diese 7 Punkte stehen, sitzen die Weichen für BU (April 2027), Düğün (Oktober 2027) und Road to 100k (2033).
 
 ---
 
@@ -76,17 +76,6 @@ Diese Regeln greifen bei Druck und Ausnahmen. Das **Warum** ist wichtiger als da
   *Warum:* Sonntagabend Meal Prep, Hähnchen+Reis+Brokkoli vorkochen. Spontan-Essen im Büro = Zucker-Trigger.
 - **Fasten-Fenster 7–18 Uhr robust.**
   *Warum:* Die 11h-Regel nicht verhandeln. Ausnahmen nur für Hochzeits-Events und Urlaub, sonst keine Diskussion.
-
-### Rauchfrei – Trigger-Strategien
-
-- **Pflaster BEVOR Trigger, nicht danach.**
-  *Warum:* Morgens vor dem Kaffee kleben. Morgens ist 10/10-Trigger – zu spät ist zu spät.
-- **Ersatz-Handlung muss Körper binden.**
-  *Warum:* Kaugummi = Kiefer. Spaziergang = Beine. Atemübung = Lunge. "Ich denke nicht dran" funktioniert nicht – aktiv umleiten.
-- **Social-Trigger vor-planen.**
-  *Warum:* Bei Rauchern → Kaugummi einpacken, bei Pause mitgehen aber trinken statt rauchen. Isolation funktioniert nicht.
-- **Rückfall ≠ Scheitern.**
-  *Warum:* 1 Kippe = Daten. Trigger identifizieren, Plan nachbessern, Datum neu setzen. BU-Frist April 2027 = 12 Monate – Puffer bis Mai 2026-Start.
 
 ### Finanzen – konkrete Regeln
 
@@ -127,7 +116,6 @@ Diese Regeln greifen bei Druck und Ausnahmen. Das **Warum** ist wichtiger als da
 
 - **Training ausgefallen?** → Nächster Tag Kurzversion (30 Min., 50% Volumen). Nie skippen, verschieben.
 - **Diät gerissen?** → Nächste Mahlzeit wieder Plan. Nicht "der Tag ist eh gelaufen".
-- **Rauchfrei-Rückfall?** → Trigger identifizieren, Plan anpassen, Datum neu setzen. Nicht Projekt beenden.
 - **Finanz-Schock (z.B. Auto-Reparatur)?** → Notgroschen ist dafür da. **ETF-Sparplan NICHT pausieren.**
 - **Schlaf <6h?** → Kein Pre-Workout nach 14 Uhr. Bei <5h kein Krafttraining (Verletzungsrisiko) → Ruhetag.
 
@@ -137,7 +125,7 @@ Diese Regeln greifen bei Druck und Ausnahmen. Das **Warum** ist wichtiger als da
 
 **Sonntag, 45 Min.** Reihenfolge nicht verhandelbar:
 
-1. Gewicht, Messwerte, Rauchfrei-Tag → Zahlen in Tracker.
+1. Gewicht, Messwerte → Zahlen in Tracker.
 2. Training W*X*: 3 Einheiten gemacht? Progressionen dokumentiert? Verpasstes: warum?
 3. Ernährung: Protein-Adhärenz-Tage, Kalorien-Bereich. Eine Abweichungs-Ursache identifizieren.
 4. Finanzen: Ausgaben-Check nur bei Abweichung >20%. Einmal/Monat Vermögensübersicht.
@@ -161,6 +149,5 @@ Diese Regeln greifen bei Druck und Ausnahmen. Das **Warum** ist wichtiger als da
 - [[Fett to Fit]] – Hauptprojekt-Hub
 - [[Vermögensübersicht]] – Monatlich aktualisieren
 - [[Hochzeit]] – Nişan 19.09.2026, Düğün 02.10.2027
-- [[Fortschritt]] – Rauchfrei-Tracker
 - [[Road to 100k]] – Langfrist-Trajektorie
 - [[Urlaub 2026]] – 13.07.–07.08. Sommerurlaub
