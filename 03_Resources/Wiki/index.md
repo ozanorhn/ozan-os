@@ -22,6 +22,12 @@ aktualisiert: 2026-05-22
 | [[Bücher/Der Weg des wahren Mannes - David Deida]] | Maskuline/feminine Energie, Purpose, tiefe Beziehungen. | #buch #beziehung #maskulinität | 2026-04 |
 | [[Bücher/Siddhartha - Hermann Hesse]] | Erleuchtung, Selbstfindung, Gleichmut. | #buch #philosophie | 2026-04 |
 
+## Fitness & Gesundheit
+
+| Seite | Zusammenfassung | Tags | Zuletzt |
+|-------|-----------------|------|---------|
+| [[Arnold Split vs PPL]] | Vergleich der beiden Trainingssysteme. Referenz für Split-Entscheidungen nach dem Upper-Fokus-Zyklus. | #fitness #training | 2026-05 |
+
 ## Finanzen & Immobilien
 
 | Seite | Zusammenfassung | Tags | Zuletzt |
