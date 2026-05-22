@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 tags: [wiki, index, infrastruktur]
-aktualisiert: 2026-05-16
+aktualisiert: 2026-05-22
 ---
 
 # Wiki Index
@@ -22,13 +22,6 @@ aktualisiert: 2026-05-16
 | [[Bücher/Der Weg des wahren Mannes - David Deida]] | Maskuline/feminine Energie, Purpose, tiefe Beziehungen. | #buch #beziehung #maskulinität | 2026-04 |
 | [[Bücher/Siddhartha - Hermann Hesse]] | Erleuchtung, Selbstfindung, Gleichmut. | #buch #philosophie | 2026-04 |
 
-## Fitness & Gesundheit
-
-| Seite | Zusammenfassung | Tags | Zuletzt |
-|-------|-----------------|------|---------|
-| [[Arnold Split vs PPL]] | Vergleich beider Trainingssysteme. Entscheidung für PPL bei Fett to Fit. | #fitness #training | 2026-04 |
-| [[taste-skill - High-Agency Frontend AI Skills]] | Frontend AI Skills: Agentic UX, Claude Code, MCP-Integration. | #karriere #frontend #ai | 2026-04 |
-
 ## Finanzen & Immobilien
 
 | Seite | Zusammenfassung | Tags | Zuletzt |
@@ -39,7 +32,6 @@ aktualisiert: 2026-05-16
 
 | Seite | Zusammenfassung | Tags | Zuletzt |
 |-------|-----------------|------|---------|
-| [[Karriere Tipps - JobTeaser]] | Karriere-Hinweise von JobTeaser-Plattform. | #karriere | 2026-04 |
 | [[Friseur Hannover - Izmir]] | Lokale Empfehlung. | #hannover | 2026-04 |
 
 ---
