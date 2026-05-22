@@ -12,7 +12,6 @@ Laufender Verantwortungsbereich ohne Enddatum.
 
 ## Aktive Projekte
 - [[Fett to Fit]]
-- [[Rauchfrei]]
 
 ## Themen
 - Sport & Bewegung

@@ -1,7 +1,7 @@
 # Ozans Second Brain – Claude Konfiguration
 
 Erstellt: 28. März 2026
-Zuletzt aktualisiert: 20. Mai 2026
+Zuletzt aktualisiert: 22. Mai 2026
 
 ## Über Ozan
 
@@ -23,7 +23,6 @@ Claude lädt diese Dateien automatisch über die @-Imports unten.
 
 @06_Metadata/Claude/projekt-hochzeit.md
 @06_Metadata/Claude/projekt-fett-to-fit.md
-@06_Metadata/Claude/projekt-rauchfrei.md
 
 ### Lebensbereiche
 
