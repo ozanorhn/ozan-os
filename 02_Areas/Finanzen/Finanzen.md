@@ -12,7 +12,7 @@ Laufender Verantwortungsbereich ohne Enddatum.
 
 ## Projekt
 
-- [[01_Projects/Road to 100k|Road to 100k]] – Langfristziel: 100k Nettovermögen
+- [[01_Projects/Road to 100k/Road to 100k|Road to 100k]] – Langfristziel: 100k Nettovermögen
 
 ## Themen
 - **Gesamtübersicht** → [[Vermögensübersicht]]
